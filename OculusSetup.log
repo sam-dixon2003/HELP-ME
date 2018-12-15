@@ -1,0 +1,473 @@
+
+
+[Debug] [15-Dec-18 11:21:02 PM] Starting up OculusSetup v1.16.0.0.
+[Debug] [15-Dec-18 11:21:03 PM] Command-line arguments:  []
+[Debug] [15-Dec-18 11:21:03 PM] Setting locale to 'en_US'.
+[Debug] [15-Dec-18 11:21:03 PM] Setup action:  Install.
+[Debug] [15-Dec-18 11:21:03 PM] Created secure temp directory at 'C:\Users\samdi\AppData\Local\Temp\OculusSetup-1c31797e-5408-4b15-a2b9-b080c4459454'.
+[Debug] [15-Dec-18 11:21:03 PM] Extracting asset 'libeay32.dll'.
+[Debug] [15-Dec-18 11:21:03 PM] Extracting asset 'ssleay32.dll'.
+[Debug] [15-Dec-18 11:21:03 PM] Extracting asset 'DaybreakNative.dll'.
+[Debug] [15-Dec-18 11:21:03 PM] Extracting asset 'OafIpc.dll'.
+[Debug] [15-Dec-18 11:21:04 PM] Found candidate install locations:  [C:\, D:\]
+[Debug] [15-Dec-18 11:21:04 PM] Selecting install location 'C:\Program Files\Oculus\'.
+[Debug] [15-Dec-18 11:21:04 PM] Free space at install location: 53615390720
+[Warning] [15-Dec-18 11:21:04 PM] Selected install location has less than 120000000000 bytes free
+[Debug] [15-Dec-18 11:21:04 PM] Found candidate install locations:  [D:\]
+[Debug] [15-Dec-18 11:21:04 PM] Finished network-blocked initialisation.
+[Debug] [15-Dec-18 11:21:08 PM] Initialising Analytics.
+[Debug] [15-Dec-18 11:21:08 PM] Querying machine metadata.
+[Debug] [15-Dec-18 11:21:08 PM] Anti-virus found: Windows Defender(397568, Enabled, Up-to-date)
+[Debug] [15-Dec-18 11:21:09 PM] Starting preflight checks.
+[Debug] [15-Dec-18 11:21:09 PM] RunCheck 'Dawn.Preflight.ConfigInitialisedCheck' succeeded.
+[Debug] [15-Dec-18 11:21:09 PM] RunCheck 'Dawn.Preflight.ConfigGestaltCheck' succeeded.
+[Debug] [15-Dec-18 11:21:09 PM] RunCheck 'Dawn.Preflight.CpuArchitectureCheck' succeeded.
+[Debug] [15-Dec-18 11:21:09 PM] RunCheck 'Dawn.Preflight.OsVersionCheck' succeeded.
+[Debug] [15-Dec-18 11:21:09 PM] RunCheck 'Dawn.Preflight.HotfixCheck' succeeded.
+[Debug] [15-Dec-18 11:21:09 PM] RunCheck 'Dawn.Preflight.InstallLocationCheck' succeeded.
+[Debug] [15-Dec-18 11:21:09 PM] RunCheck 'Dawn.Preflight.RuntimeInstalledCheck' succeeded.
+[Debug] [15-Dec-18 11:21:09 PM] RunCheck 'Dawn.Preflight.RebootScheduledCheck' succeeded.
+[Debug] [15-Dec-18 11:21:09 PM] All preflight checks passed.
+[Warning] [15-Dec-18 11:21:26 PM] Found previous download directory
+[Debug] [15-Dec-18 11:21:26 PM] Created secure temp directory at 'C:\OculusSetup-DownloadCache'.
+[Debug] [15-Dec-18 11:21:26 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\teaser.wmv' to C:\OculusSetup-DownloadCache\teaser.wmv'
+[Debug] [15-Dec-18 11:21:26 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\visual-cpp-2013.exe' to C:\OculusSetup-DownloadCache\visual-cpp-2013.exe'
+[Debug] [15-Dec-18 11:21:26 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\visual-cpp-2013-x86.exe' to C:\OculusSetup-DownloadCache\visual-cpp-2013-x86.exe'
+[Debug] [15-Dec-18 11:21:27 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\visual-cpp-2015-update-3.exe' to C:\OculusSetup-DownloadCache\visual-cpp-2015-update-3.exe'
+[Debug] [15-Dec-18 11:21:27 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\directx-june-2010-.exe' to C:\OculusSetup-DownloadCache\directx-june-2010-.exe'
+[Debug] [15-Dec-18 11:21:27 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\vulkan-runtime-1-0-65-1.exe' to C:\OculusSetup-DownloadCache\vulkan-runtime-1-0-65-1.exe'
+[Debug] [15-Dec-18 11:21:28 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\oculus-librarian.zip' to C:\OculusSetup-DownloadCache\oculus-librarian.zip'
+[Debug] [15-Dec-18 11:21:28 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\oculus-runtime.zip' to C:\OculusSetup-DownloadCache\oculus-runtime.zip'
+[Debug] [15-Dec-18 11:21:28 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\oculus-drivers.zip' to C:\OculusSetup-DownloadCache\oculus-drivers.zip'
+[Debug] [15-Dec-18 11:21:28 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\oculus-compat.zip' to C:\OculusSetup-DownloadCache\oculus-compat.zip'
+[Debug] [15-Dec-18 11:21:28 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\oculus-client.zip' to C:\OculusSetup-DownloadCache\oculus-client.zip'
+[Debug] [15-Dec-18 11:21:28 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\oculus-home.zip' to C:\OculusSetup-DownloadCache\oculus-home.zip'
+[Debug] [15-Dec-18 11:21:28 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\oculus-redistributable-installer.zip' to C:\OculusSetup-DownloadCache\oculus-redistributable-installer.zip'
+[Debug] [15-Dec-18 11:21:28 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\oculus-diagnostics.zip' to C:\OculusSetup-DownloadCache\oculus-diagnostics.zip'
+[Debug] [15-Dec-18 11:21:28 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\oculus-overlays.zip' to C:\OculusSetup-DownloadCache\oculus-overlays.zip'
+[Debug] [15-Dec-18 11:21:28 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\oculus-dreamdeck-nux.zip' to C:\OculusSetup-DownloadCache\oculus-dreamdeck-nux.zip'
+[Debug] [15-Dec-18 11:21:31 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\oculus-touch-tutorial.zip' to C:\OculusSetup-DownloadCache\oculus-touch-tutorial.zip'
+[Debug] [15-Dec-18 11:21:33 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\oculus-avatar-editor.zip' to C:\OculusSetup-DownloadCache\oculus-avatar-editor.zip'
+[Debug] [15-Dec-18 11:21:33 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\oculus-dash.zip' to C:\OculusSetup-DownloadCache\oculus-dash.zip'
+[Debug] [15-Dec-18 11:21:34 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\oculus-platform-runtime.zip' to C:\OculusSetup-DownloadCache\oculus-platform-runtime.zip'
+[Debug] [15-Dec-18 11:21:34 PM] Stream-copying 'C:\OculusSetup-DownloadCache-08253d3d-94f0-49f8-97e4-c73c6ceccb15\oculus-worlds.zip' to C:\OculusSetup-DownloadCache\oculus-worlds.zip'
+[Debug] [15-Dec-18 11:22:06 PM] Decrypting ciphertext signature 'QD5oztGtUgPF9tt5Lb/W6v3yyC40r3rfH23i7KNAAyoMbdkrjijEae3fdWvVO8W/jOLl2s9rMopJx4pX4prCzBTTzhF2EOJVKrDwu0wQOn6peYrohfOrvPXdAUzE2IctncAtnTwfGcJ9muQk7Lt/TqUHc06tf5cIgqulb4S10QQcdmNPBiaKyvbtJnZ1nDevtmQeU/aQxygDIdSdTkwYNpd2nspkwd0wpHMk83IhBpMtzQkhzOMGzB9h27qoLdQgUTBnSSXzH9exStIMlq7nsI1mozRCmEH9AgcytTVjj4hypPhxxH9aZRcSijNCf8mNaZCsn45AsM004XGr+szIUmZh+rvSbWEb9mbHaihePzhgxKem2Dm9ghZItvhd+aQSNpW7lVwwcl92RMD0wAZGs9EgHD98Tmu6NwLCNGqprqxDdiSZbsBPjHdDI1UpbE75hwAujyar/Jm2SgpTqWmbBS53uydguhqqFFkbhGQbGhlMVyAjiy30Olu2JhnEtQ6hu+ieVoXHDvHXC3l6/XGAy/1J+5xppXDuH4VleJ5P9DMuCWNpMpjCodXmxbE0YWGYh3rmBqfmdvpbOpBxOiFVSRNvwexNPntPUtjNZCmkCJ/84Dh6rURNPsBi2yk0DDn1ViO+RLhm7gZyHZMmqu7hqd3LzVvHfYnn9H3UQpIuLZA=' with primary key.
+[Debug] [15-Dec-18 11:22:07 PM] Decrypted plaintext signature 'f49cfe8be5173a61858bb6fed69e0bc0b27e00e44bf18f17ef9b29114fad5584'.
+[Debug] [15-Dec-18 11:22:07 PM] Reusing previously-downloaded 'teaser.wmv'.
+[Debug] [15-Dec-18 11:22:08 PM] Decrypting ciphertext signature 'eb8LVfGGf9rXH8TFT4Hr6cPdoFQVPw/Abpf2fntbtDGaj/IsQNbsvJkBPgySXkCxJCRIC2yx56fDsM4jp0I/yzNY3Bf8p3N1L3WqlQpUt4+3A/ukdkj+PLMhXPtOxNeUwxPcYl0YE8AJNpNC96EFB6n+ZNu+CUjyHgSy9CtAAJ5+BzylLiXVCXJMS99KkkViIcu9wnXukZ2Wjo+I/bI3Q/iYe3ziwIqupuaAbCfT6wK4IDjsdAshZcs1Z4iwPt3zfXMSBibIGovvKN72ov2nKaL82Emr4ioILtZXKeS0YOj4ocdzxa0CVCrZHmGuapy9obd+D0F2/7ei9f0ozz+GllIcL7cwM/wFuToCfqf0aBxaj2ochK0q3LPv5Mc2J3z151NgQe8EupkfIQMjSNpQuf8KjnctCORmntGHzX8lh2Hkdd2L78GSYvVboyyOqnqvUXjBkOm68ceXhdiC2G/k8p7OL4l6P4Gx98GTCFXjvaEpJuf3NfuakQqKBHGd9kRVtn+TTCZnUAqlXz/r/sW/4Nx+vUmU3A4ILW84JIVo7XkqGFeFSG7rBDB7tpwPSPE5taYJIy4L4E0a8RokLQxAaaeZo7j1Kot4cd4N8gxXcSH/Cr3bPTTBvv2z08+VD/kkxByOQX1DfpUHEAQcnRTENKV1M7+STYJYf/J9zGI+xTU=' with primary key.
+[Debug] [15-Dec-18 11:22:08 PM] Decrypted plaintext signature 'e554425243e3e8ca1cd5fe550db41e6fa58a007c74fad400274b128452f38fb8'.
+[Debug] [15-Dec-18 11:22:08 PM] Reusing previously-downloaded 'visual-cpp-2013.exe'.
+[Debug] [15-Dec-18 11:22:08 PM] Decrypting ciphertext signature 'UVGV4fJCDt9KeWj4myASa23odLHTUI2FUwWKk4i/3kucyki08wgel+m6mqqho+YdX6cDUakmFT7VyTw5Pi1hN0F5uz7E8vwWkTyXAJ0qTnt1b2EdgYBSm8nUxQIUja8v1s8d3xB4tE1YJFLWZZ2CWsrExcaNdj/LWdVfawS5vnLvmGkmivbBFKmd8JKeGtUI0IHhaMVbeWzWBR3ReQ6NnujysVq9dh+3zdbsHTcq8qaHemPhNKNCQj98mW6cRhHEKI1NYSg5EkV7ditpPsHQg5++o44H39pgWArZJytxYpDuIewjWR+SDcocXOD4gdHcMbbsRlgsY/XPGDjxV9noPeRXKgmhbH+aPxbVJCl04B5P9IIWtKS/763qBGvI8SdsAaTZM8kEa/F1LtSdBGeANqzpwdy5Z+mkrKDtAyP15ZIL4X/azPfnQvd21TFNFCn7Q4XJCfzcsrnn3MfgG7cwFqVpW7EyDsLWCZcCkD9kujEq5GRCjSHRl3Y9pa6lAFhBAuWZEWlHWYG+LHR3OGpauRCgbFPviql1NCDjN70LBJQPnP+pYb1ikbtZn6ba+o70MLRgoIX1fYwBeuZK8dqkGqocAxNFKKuDiLA/SY5qOkKMCvr3efz/0IeaQsKn/sffXX0cAKvUKiwL21G5weE6uo2hS//3XbxL0+8uKDEBhx4=' with primary key.
+[Debug] [15-Dec-18 11:22:08 PM] Decrypted plaintext signature 'a22895e55b26202eae166838edbe2ea6aad00d7ea600c11f8a31ede5cbce2048'.
+[Debug] [15-Dec-18 11:22:08 PM] Reusing previously-downloaded 'visual-cpp-2013-x86.exe'.
+[Debug] [15-Dec-18 11:22:09 PM] Decrypting ciphertext signature 'VLNXZz+0CyO+9vh4lxGfw1Eix47DuP+hBATNT3B124UzG++n0zV+d3LCV4jJeHUr1NTtRT7BVOb7P54WeDRslfOfoa96+GP7FUnXW+e5gaXtgBU0CiMfg3moFJrlQfT8IRG8jW2TenPQmUnYA5nhD7ksh6W0rMKx6Fy54SLm+a1EKHlIuyqmo4RYwWBIaN5PlVZwJiosSfQKfNQw8LUQzoRuNTItvTN58vCZqpQoerGDHN23f0SR09I3zsrQRJ+T6cNqfUowNFeqOdOB0k0wdH6SyQVJVs2aWBXm+WpfMrzvizne4AkK3Xn1UVZiFwuPRc0Aae3lW5Rgb9lTXjm5pNRNp2ROtdL4x9qYwqn4Fp3Hc3XI5cuq8LY/D7SsZNLF/LuBQikK9h730IWHyugVvwKrmwTPIg8j96ZUQj6kgcTyiBQailZoqnM8T/pJ0RHWzARldqopIWl8yO4sBZUCgYRJDsAeHZWkkXeeI6LD+BeXoIKmT/6bk4AisVcA7PGOcn2PlMivxKZf138zQoECsCsVsC3tQUuybMTtE7YS0oLJHQxBuQ/aIEVDmRMT73WSAK7y+tQzqupyWQ4LE3MDzz08zy0cVPBm3UHTYIOjspXyD8AqVl+OYUrWv8GO02QEeZokXUzRTkczs1pZ+MTQVDMGtiN1oxkl7m4EyCabGKs=' with primary key.
+[Debug] [15-Dec-18 11:22:09 PM] Decrypted plaintext signature '093b3a58b33df132d12825726e03d7f43b3eab72886be00f79f529f1948e5d16'.
+[Debug] [15-Dec-18 11:22:09 PM] Reusing previously-downloaded 'visual-cpp-2015-update-3.exe'.
+[Debug] [15-Dec-18 11:22:11 PM] Decrypting ciphertext signature 'R/dRoXmkep3zLWazJwpegAiUt0kply1efHgaLz/1G8gxYaCmbTGJ0czN1meCb2y7yuGk63Ng/vKGYQYlIax8SpAZvpYpTIQNIW4GjVVbV4EiWsZ3Ulzn+Vnj3oVJBp+pl2zyqnZElF5BoQpX8GoRMnGBPaHfdJpo8znv5JZFkbVjwAjuMy1HsLiNRDiH6w5kLjtty9ccBsFTy7sbcyDfT+boh7SX8DqtL0cdZRGxwe+4312cjO+RlcajnJy2TefFz/5ID9eiAV9gPyaJdfJgMjO+4amDA+UxbolsJ8bCdNbx6qlS4KO5WLgDCqxLETtdyDRfxR/eV5hBs1kV8F+Kw5nyPMR9ey9L7oicEeV3hkx/4+zgifTu0wT0PDxzoxRbJ6ynegpJqdmLa1HSbg/onPmSUh9Qgq2OSp20NLWEHLzFtw7FFTGK7MUHZSNKwftL0dqSiVlFZITZetHOHyxhgfuDYkRaa6c125NKzfl4HzyPBG5UIDyZ8+0bD59GN2JYaQL+nhhW0jHurPHFao4QpEY7uIV7jIBfmOZJZgXDDOb51zHcApCVPneMLoJyCmRpDW0Q493UvrpNjSkLhLWdlW/PUBV9OgiiC4X56dpDLl9mhXZLzQFH8ZTnlulcJREsQZiovHNb2lZXJhg8bJ0xfVdPhezNgMAFpj8J3N1hc6s=' with primary key.
+[Debug] [15-Dec-18 11:22:11 PM] Decrypted plaintext signature 'fbddf27f5477c0823c5b6474690785c8ab458ad47d914e2340339dd32495621f'.
+[Debug] [15-Dec-18 11:22:11 PM] Reusing previously-downloaded 'directx-june-2010-.exe'.
+[Debug] [15-Dec-18 11:22:11 PM] Decrypting ciphertext signature 'f9iIbpEWSpNcMxQFQw1tvqw9F3iF+tXa2Ef9FWrvm1Xbj4mYy6Lm2BT/6VVCv3cvNvD27zpbLok+FGk9j/OcJuBzSe1fB3B5ucFRDpc2Dd/uuxH/mv+GsO0pnybR0qBVdXI+7TwgzAngJl8EufKLnq2yObWxVsa7fGXGPQUNV1t6KyfNlrcF0fqDaGIotPvn13FUx4aFuroVlH7Cx5DnnPezp6xYSiJR1sdpWmsa0cK9EgtHanqpRLRcEtkBO9/YEEc3k6InYvpsnPhaxWrjOdY6utO8t+gZaJwuPqsdgZCMFJ83sbYhZGwvdKWWaPKicoAo6ZWRhhKro+p0CZmaW7wxb7MAe8bVHTFIi3Ug1ByWESL/1LfQGEn9VabFt8eNEo6PFdoC6Iz75/LgUD3XSLQYvWER9AAoI9tY+skSaOKf1iWsBRtPcMcRYp4O1x3MVrp4emDyM0YrAntWHtCxrdMc7ccwqxjzeb8Squ+1bHvyFSkzt0zv5eMXhJBv2HNp8xFpQMeiaZrFeWc6mU8+K+vvOvBbY4PC5nq6vden9dfKae0qCZNqKot5xgUiovhKUpMmWA2QPWZmAdzKuXpT3h8d27ScTYcgic5L3V1oYdQQ1Vqim0cpE5pT88BWDNkKDoUvbZFyXRm8vH+42QDi9NU9l7tkCndFCd+3dXLxxqs=' with primary key.
+[Debug] [15-Dec-18 11:22:11 PM] Decrypted plaintext signature 'df9c559ad77ee21a38aae79a35d4e199f0eb8e6c4de78b37e849a95560f504ba'.
+[Debug] [15-Dec-18 11:22:11 PM] Reusing previously-downloaded 'vulkan-runtime-1-0-65-1.exe'.
+[Debug] [15-Dec-18 11:22:11 PM] Decrypting ciphertext signature 'nxw3C3TLTcAz6ybp7u/BWKV98dqCalnvBiDPttCAoFLBUhQh8oq1m5GKU+s9LyW2kF8rSuK+uGiHqGAfhm5/5ySwFD3Y7xIDGdhBfBRx6hz0qxuwgC5FTpcz7YQwYBFpw8ge0UVvsxicGGQUbQ1b8uVgvVZL5PKMjAsmKren9sYVywp/ynP+mfVyB6yvC+GWq461LiGmE8cLTB/4KyI+X/28tiuGzlUnP30Ie5DkfKmKNKUWJNtlwabJ2J93t7LonSyEdXHluh41ZZfSZGicIloQFMMjSXFLF6aVq4F+1nIdvZ/DOp+RasioU6DGZxaCjfOVGmWl4hnXhMh1tIQN5Eps5Z3Bsbb/3o+eaPJLYbupZzg3DicA8pjv1gdpVCw3GFNy27vRrfiu5Ir/e4jOkdGhRramMQcE328jpbzY50bBuHBfvQij1WJQMcVxcAQrqpNP8srOt7r6SzYNZGQF7XTwd8ELEogvJcEYEV3y4bWoahXMarop8jSb0GVW05TJN3Bp5z4bpvAa0CJsGNnyUhxp4Pz2N9ax4D8gys7PnDM3c8B0sGVCVwIVRGZ5E+w3iILDPWbtt2HOIik4gYCN8jm2aH16xcBrc+FtnkW/LiAM9gAPJ+PpvnKaMAVFUlvbZus2GdSB/lkKLl0mqMJVRfGkh31wPKzA+OIjvMPSip8=' with primary key.
+[Debug] [15-Dec-18 11:22:11 PM] Decrypted plaintext signature '5d621bb32df6dafbfabcd28d64d6b1a84b3b20b15b27fe851a4aa38b4efea7a9'.
+[Debug] [15-Dec-18 11:22:11 PM] Reusing previously-downloaded 'oculus-librarian.zip'.
+[Debug] [15-Dec-18 11:22:12 PM] Decrypting ciphertext signature 'G9RXoY7bzOUmdS0eHXSpQ0Zw5vJQnaTn60G+b1rlrRd9AXFhbZR6gZlL7NyXCuGPjfrNg/mT0h0UgGyoZqfw8ewB2LLK147ZDqx4oJpHVHrvGotFe3KLQ3M8EI81HAyttdB6+5aEVD6aitz++zOfZkH2FUWMp6mQqvBupUAUz33KCezS1Mwou/P6k5LOhpgv7zAdALhKzHguqmAyWQ68iP9wNhIE4+zQwXcuj4J/ZOUtboY51qOiLf218Vo4VfloeywRTyRZKVegxF8WPIzAiLLBvcL9tdP6COYliebasm0Ts3lvjTj0j23H/ToafWzqKqLruNOKFegvKoEwDLYB9T/fpljOiiUoKcVg/RUWJDFu9wPHbhGIgW08Q6nl2vzZVVLfigpqKEXBLT4mZl00cOpUbeV2Eo0orHvt51sdSVq+OyNz0WmejzsKswIpHI7EaGqX0zVTFOsmRtx+j/WdNVAj57hL/llvugXc0GxeTKb1jukk8MGozvQwjyhIjpRFAkk6nf1c7HVpuE218GG7GJ8KeoEt0qDrG98wi7+8dFRHlxvX//XqKTkVNEVwHsMyk+g8AtkFh5DBCn7VyA9tDGTy0v0t8lr8H9FlbRpJA02uI7XT7AQQN0jPN+9G6YVuieNGu6EMnsSxSrOPx5iSFHrMi7Vd7mcS3HHKi43QaE4=' with primary key.
+[Debug] [15-Dec-18 11:22:12 PM] Decrypted plaintext signature '2e5296912418ccb12d25d173c29f5e4f8cfb2f4a2f5308df939b9e322a17f76e'.
+[Debug] [15-Dec-18 11:22:12 PM] Reusing previously-downloaded 'oculus-runtime.zip'.
+[Debug] [15-Dec-18 11:22:12 PM] Decrypting ciphertext signature 'ASon3w0abPIIqnFv5oOo2usc23v1ba+NCdinM6LSnwjQQfYu5f+59yKFeNkvaBiGY39Ndk94cm2pT2WhYYbn5z9m3tHwpnjS+l/h67ooY9BnpdsF1kcdOu5JBWrECBqhlBoPgvJdr55al8rIdd4ct/Ec/kJH2kr08GoTKjqOGf+IeI/bHGr0J4iquJVeHdJm7IT5z21ABxcXjMei0Yi2ODAQJB8vSdh8orwMg10ch0vp3mTkrRh+sID/kaFnEuDF9ZYn8+QRtwWTRSfgyBhoG6GX2g8zS9uJQ1vxSsOUPqvZILizBatZ4ZOtI5dEu4P+UpgmMnp6yXUmBexdUuRNeqeXjhwmmXljbJNC5bchtuDc/PgIK5TvT/VC1S7xwhZPV/AyH6MmEIcEwV6SzErwZ+7SZxPZS2cNNHlaQ2RkVNSnrOStfL8TBBj4tzNMXr2N7e/PLmRxnsyBuX4STNNJnlI2RcpXJ4Q9B1Yd/3jx/ZOzscXGWOvT6XBzx7pqeISNLGFtEERIstTjeM2ndbkh43Npj7+/P4yuSzJaju7Y0hoQmFKZaJYtAFKR4l+UeFXO2rMgvbeDHSwIb/cunwqWZJp/tT12Obq6jIPj+9wfqmIjbweQO+vQILWJHCAZie6MtK2Q3zWyJEZSe6ucYPV1ux04J4puS5amkykW3p5dkEw=' with primary key.
+[Debug] [15-Dec-18 11:22:12 PM] Decrypted plaintext signature '5b8b86de78d188f861a41724bdc8b9c3cb50cddb0b96cd16311b5dd0dafb02d3'.
+[Debug] [15-Dec-18 11:22:12 PM] Reusing previously-downloaded 'oculus-drivers.zip'.
+[Debug] [15-Dec-18 11:22:12 PM] Decrypting ciphertext signature 'qrjo8gAb+hL0XKviEL/fks6ZlQK0LjDXHF92wNBShQIS9ImCJNGfG25Ai/TvPfW9zeA57jrSt7VijmsG8RTuwxp/FTFIwG1OnhgQhQJMH+aFACZPiiKNxJaxOGpd35nD7WxfDLMFnA+4kTy9IPLzeXXG91432gIlZmAKliRGXPJt5qv+Zkh6ayqbz6IPUySeFHa9MqRVr6xlUZDBtM4MIEUhX3LBiIxIcU8Xo8WR5Yao2Os5tA+hGtPpGiP8Bl/JdJsHpKsJ8Ht4c6XZgxEoVCiYkAUHqKrZiNjAt5WjEvnl48u9X7KUiO+zbYk6/IvXyNrSg1dAZETZ8wVbGciQaKHCQGjEaZ/445gBeM3/e4iy9tJkcMYFthkGumOxa8DeLt6uaDxAW77H2eFM4PG+Jd35AFnnhpVvWx40KYw0wfCpZZgg0+Lq8CgQ0Of4RQZFJhTfOnaAphSINsFlHKZkqDYVRXDjdJ/ZD+eOk33837lCZ/H/Epqe4X12UQrN2I5CCtJ/CeJi+w9dNWJ14d6ilp2rMpTb7T+Do8u88c94HlkoWGHYsMUIlY1MOhuzgO4yWu+k3zqB7u5VxAzXXEI9LWDIMdlF9bGe5rfWQvQx7LXOFofiEEoEXsoyi+tzrdY4hpgdLBpamK2HJ/rmIWQcNpGoXXRSrAtlhHx0YdGBtIE=' with primary key.
+[Debug] [15-Dec-18 11:22:12 PM] Decrypted plaintext signature '834fc2f7a1dbb8cc817dfc36a4d1d8c071116c75efd3103c87bae38431499e71'.
+[Debug] [15-Dec-18 11:22:12 PM] Reusing previously-downloaded 'oculus-compat.zip'.
+[Debug] [15-Dec-18 11:22:13 PM] Decrypting ciphertext signature 'PvEYowGTpJilc3L1n2PfVOa4DFstReN/7UC5tQXGX9eALD5MR2FJH2yR/jDM9kf3NqyvDSMtEMKERSFp+ADWtsco5C+CfbRU7cOYsVI1EXR0N/LF97d4v7FpOR4p5laIs3pJVT0ofJzyQHsGj0fWYGwcnakq3FvPONynQIsKfPhyFrHRdEFqaQcLAmtVfULN1qQec7Gtdcc20yPhIkiL1Bh60VLZHl0vGNE4yP678+VR2yXbA++uWERq403gYUgrOz5t5mWdcvMNZpyP0w/teyBYuVhB6rzMMOHYB7RdByJ2HU7/TjYNI6/UPAHzDjFZS8AQl0HGqME/NV8rhnBDcD9ZjXQIsiYg2e7D0fqKKOGsHpjAtWwLIicAD0wMwoUYvwxW97H1dO8AxW9RhPbNAXW+i8YTX2rsw+cBfgec3yYo2RwwBjDVlwcbe+wRrRAKCAWmzWWew9he7V2+7Ul2AH2QSYxusodonrtXQG3JP/p1rgjB5Tglw6fLnGdwajiGESANTJQBr5WEDjRTxStqyplyQCbFgmDizYywcDHqvIj3hmLV6WaDgkmpjEdfOulTd8jJJspu9IFrpCSHR67U4XlaZrNLq3ZJz2m7pRtiZYJWCcT/hQjc4zxKIPfxdHasef+U8M0zVeqMTt2imF61jNQ7muU7QTM7URxqc5tKYio=' with primary key.
+[Debug] [15-Dec-18 11:22:13 PM] Decrypted plaintext signature '27b2f12af6ead7ceffa0a20f4d70e30b20659b8eb4664b15f60518010f3c65d7'.
+[Debug] [15-Dec-18 11:22:13 PM] Reusing previously-downloaded 'oculus-client.zip'.
+[Debug] [15-Dec-18 11:22:13 PM] Decrypting ciphertext signature 'qa+zst63S0oc33j5fnARwzdTl0YlPSuSPpgR3GbiI0Pf9Y+YDZXztPXbepfbBqKEpnjGOgoRh0ZNjdbVZgoVHt8yAhbWz4TJiqAIJ96xy5CO0HZc2bNfthlgWo1EYOWO8LGFnZNMTrQPbxP4VjaS+j0TIf+iYziox7O9Hj+woyGmc+FrlDivvwKuGPO1vrOQMmSWLog3UHvIkSkOQJsyXdnHhq2b86HYW6bQuzGGMRVvaQorlouED8wbLBptANv2/xg03+LKEFWYdXXcNchMCqcV5KJOaa/newTnk724FJHsH7SPDWDrEROe/VSQBdFErWvb7vSs+zbF90aQzvUzze5Zy7syKEHCpKXsbm9csX7BiCbMy76j4g5rVf/crN4srIGahiFcukkYviMM03fE7U/qKWKiQn59SVFiA5Wh/2YthIPQYkHTEpmQe7rAKZMXUxifJVWVZy0YLoO02yxe1bkzWYoT9AYEIO5Ek9tsrx7roIZYqGMjj3WvE/Kg2GOsqyrhGYnrvX7MJwRvm7i7iC34O8iK8RvvOfUcHf810N1L+1ArLv9gI5XvBeiLL5u7r2eFfkQ7Z4jrMFCf2Fi2ZgYAP6OKfs5tCp3EjDiHY5NG8GY58U4i+R7QubziZ2oj5FmcJ0O+6iSPca7IZYtdGXW68dqVJnhr9FQ7jVog7v0=' with primary key.
+[Debug] [15-Dec-18 11:22:13 PM] Decrypted plaintext signature '07aa14962db08663bed0e8613900654ea2ac5bba47ca3ca3ae565da7f31e9788'.
+[Debug] [15-Dec-18 11:22:13 PM] Reusing previously-downloaded 'oculus-home.zip'.
+[Debug] [15-Dec-18 11:22:13 PM] Decrypting ciphertext signature 'G14Uycbrzq6yD0Nbdwrs+ANZ7uuQ0yyx5GzVm8IHuvdyjQRst5FbIU81uIBI3PNw70qFc5s8G8f1Go0NBB1nO6fsOzFHJNqJI5NA9WpfjmFjKWA1IwRMhkHEh/NyYmRvUngqNKBmYkMFW19Dy/xwDQG5GHDcC2kJsa8kZtdDkgSjrOC66J8A1WxNsF/imhdbdK8aTpfTYnLXjFRZwaxVmvSGEQOLtlc0y2+EeAe86aooOgy7NCYdViKzrGoHhCWOP92dSWURICIvzk+HGtfHbQZicD24cXpcn7Hrc06PQ785spycoBxBzP7XdpvLtzupUHMd8P/U+4dBfyJnVvc6qAgn80x8fS7OKwR4BZGAP14JqpFLLXGlgImNfKkgJzwReJwfwjQld5eZyaa2v1H6yXt3kLZ/tixCfD7zjYFw0yxxqwRIw/lheeW1THuTFerd0bFsLz3XML8cHrj+U/6ZUo323AzfRKDbYoh7gGoHYy9bWX7qLajqwCp5B/Fm1PTVwKssMdJfrC+AOzqgwhGjNOo2gWkYymOecl5MStA+sGY6MQy/dAt7NIS8kmk6p0csJpVncZZWDl888GwKEF4bs8XqXlm1OresJgUhTM+U1J2MKog073e+FQ7WefuPB98WJC4pp2eScYwsUG2pHBhzrbUkH9EhyjLT6Gyq3SwFOck=' with primary key.
+[Debug] [15-Dec-18 11:22:13 PM] Decrypted plaintext signature '3d363bc043036fa313238bcfb07e4fecb6f6053f394e79d3e0a82eb0032b038a'.
+[Debug] [15-Dec-18 11:22:13 PM] Reusing previously-downloaded 'oculus-redistributable-installer.zip'.
+[Debug] [15-Dec-18 11:22:13 PM] Decrypting ciphertext signature 'GhnCHesShW/u3iumiD/Ka4V1awBq0X6PLLJMSM+07CifLo+jpnb679u40SRL5DjdJmu2xSgITlkBhSPKf+3BgoV+O3f3fu7klNPYe5Y+uhOh/YTgP+oLvhrKqPYcaDD9HUNQdOXJioeJGsp5q/nntzgcR3aVWbU8jn0k2sQrZ5yPSD0EwCYo3Evx6bfRFHEJd4lnFJGtvsKJSg8aE161wQxh73VcwcXWTRSDZrttSWHBhYLd+e6uNI5mEASfi3dlOyZtekIyWiJXSIPeD83+Hh684CxybTp3YaEVSQdFDvWT6pGikFEFOnLoH8vEl3yX4xl/GILuNwxfGo/tzNq7a3aIc8iPaEmbfGG8Rt02OXNa5BojWbXDVFHa4LDKIj9QesOfg5jaV7mXxI/o1dWhYkoraHdMFOKeRuB6NKQftp9zf91ugeCiqoEP5JQvgeomSoxii/zF5yRITlUtJqU1VgXgVVvC5ZR/aVLMlkyOmqTCp3vo3vJGLfYeVHNgh16AbGR5Gmv3uxaMOwaqC51wZkrC7ucjsGFj3GCeGPD1EORrLJzwPm1EvQ+6Z0ZCrogndNBXL04NGgv6rEfhLyqjhdKaMIyAKon4ufTfoHfOqilrRWmJq3bJZJDIx5w0Kxh9PFjInhie0AXZVSARtmeP8fJY6M1NTyMHaEp2Q2CNrKY=' with primary key.
+[Debug] [15-Dec-18 11:22:13 PM] Decrypted plaintext signature '1acd07cb6589d715856ed4552c42c96c2f876285e8a83ab64ecd3c50c048597a'.
+[Debug] [15-Dec-18 11:22:13 PM] Reusing previously-downloaded 'oculus-diagnostics.zip'.
+[Debug] [15-Dec-18 11:22:13 PM] Decrypting ciphertext signature 'Mg3zN8ySya28fii31wRvthCip/fsSxQyEiSww0zwZ+rWeJSFn/KsK6aEu9xXTVWnG2pi9MDTHI+yxUvxGOyUi52pONiKJJWNEP9kmZ9Og8fGZFDQOW9k1Q4TXYoKWjlybI2u+GB52AhbkT9WdICV+4GobdhcT1s7O3O071v5w9dROIufZRQLxB01yqPnBBQ8L6qo2Glb+dl1/xxZtPOwSJjAkqJpKtSjJC8q50aFzlQW6KuEyDN6L2nqiUj/MOeV853E+a+3c7hPbsmK3ZcVQ/IhnTdNyLyWpVkxK++fM8uzU6HzYTrsTjio/I6bdLeHAdCUrGF3w7doVHJ3XDiyhSA55Xjye3zdchOg67u8LDhpQhN+YvzBvnT8j/9Xt7VlCGXaZC1q40v/IV60cCJUjOVquVb9FlSSskRrrPUl8r4UsIN/tm56NROpJUPWCeKZT5E6FWlH7l5sGCjbWvgLCM9BDCGcRO31TLGVJVkZYYGB1K5swaEF/IbGmaf+UBBaPTQTxmqJ5Acls9n8lg21PS0PMxTmKyUaZGv35FCblISxIe0tMFCTpWC4civec+UhunuXrZnMMlEUV0XtFRXzOXkdM1uaMlkMePTRv8ChL4J4Hkeh7edDQkYlUjrpKNt99nlkMdLy01IfSNCR7T/+K2wz8TfOvCFA8G6pT358IIQ=' with primary key.
+[Debug] [15-Dec-18 11:22:13 PM] Decrypted plaintext signature '9091023e1151b075ca1d7a3c53976fdb5ca82d3a8ffb4bd190af6e2baf3f6747'.
+[Debug] [15-Dec-18 11:22:13 PM] Reusing previously-downloaded 'oculus-overlays.zip'.
+[Debug] [15-Dec-18 11:22:17 PM] Decrypting ciphertext signature 'C3ltorK6x1xn+zjteNNQ3EmStbJfu9aXrRh6WPk26Hz8ck0ARb8DprnSTHtrLGGC3GwoEWDqgCu6rxCVgjIAMAJcNBt6qNpCdKwEmmEnrn/NOvgRGUam/34l9C74O8SrO+vD82hx3Hg2ImpTa4CWhQU0pDOKxEXM6hCmtsLeIpdp0gFi38EPL6MEOaLPwzZQ7ggLenv5+gzlCcUqptibOpklc2KUh6HMcE29z42zKUR5V8C5viC9FyMaN8Sd+qIsEhCv6dmwEyRtpEGawiJFuTJqkVVFws1LA1zsL0c9Jjtv7kxeaCusWMYOUFsGk0Mj9hZTaDvIp48PPCHVRBwbBUfOHb9S0Br9lD0Vw7epccW/qe6uBWjGMMEmbvWUavE5LapAmF6aj/W2M9WRvG+MG12IhU3KtD0cSmbwtNm/k+GDsv8GXyK3u86VOYRZHo0mCXMZr9l9VQGag0a8cKnDvXJJ6TziGs3HKwY+ujZH9bOJjpLaV506/R/O9QgkN6k/D3x2fifvPVL0o3ThVu2aoQjpvzh8h7dNJqlJSbKyvKxkKvj0VEEf91rWponJftTJ0q3aS2Aj3nUKFw9f/MvmZHNtTMepRAqFOtUPKQy0w0m+SWJPKMrheBrJYYZHmwP2AqxKjflC4K7KRj/3Q8i6nAkEkN4ag4201CyU1mo+xBU=' with primary key.
+[Debug] [15-Dec-18 11:22:17 PM] Decrypted plaintext signature '547c0c03730d6fb99eb90fb569e08c7ea9ffb660d27b539f84cd94559c59c621'.
+[Debug] [15-Dec-18 11:22:17 PM] Reusing previously-downloaded 'oculus-dreamdeck-nux.zip'.
+[Debug] [15-Dec-18 11:22:20 PM] Decrypting ciphertext signature 'Ll/ImJroDJoJ78WVrqCfkgRadX0aCHn5o4lkKl7YrYsU/bAsQa6YBQ01OiWtluAiqA4yrJz5Oae/jspHiB+ZSX4oNYh5RE4h4EiNboICAgtIxOIa3OKj3qYxaMP8LPizk7lwQwJxLVXPtcVwA8VXDjC4GYNfu0hzaepfm5suzXe5VYxTBmXhMdC96GP2JqMtmZkcmyPhc9kdXX3Sj/XVpfhzNZFCDvsMKI4blLxwo70DnN7PRrPOCZneIVxJXlQNHf3Vt4MCOqMamsM2GYoXSylbAEiXQyr/gxuYX8VAfjcpblHZs51UPrLANovDfoi+o7D7BQadVLUkf/Mki82DnOkRQEu1jyjKhtIhxwuVAmQHHutxQGJZal7AX6BGnu5diTRYCk7e+CaLIaA6FxB11rhQLHo8WuRtPTLPjHle9/ksFb7/mRXOKRrNkwE/zC+Hv+kVliw1cVu89gIkc8G09rfl6/pSCz6bIlUMeZb6gOv3eLKMcelQmS/zGaExYCZW7fpxSVf/hF4z1rOSk03I52+7qAddmVZ9Tox6GoHVosckKMfkIPR2hoN7Jl0WdRdUIFrH5veSZOMt0Rs+qbWIhAfWiIgrP4GLmWvqxhx6jpukzdJV6mrr7nY79QYESdkvzALgx8UlOsLW3gPiF+0LT1/Wg4N74r73B9CyVPG2dlE=' with primary key.
+[Debug] [15-Dec-18 11:22:20 PM] Decrypted plaintext signature '9682094c3869d2240c59f065591cdd15e6c08ac1af4c6a82b47853710a1c8448'.
+[Debug] [15-Dec-18 11:22:20 PM] Reusing previously-downloaded 'oculus-touch-tutorial.zip'.
+[Debug] [15-Dec-18 11:22:20 PM] Decrypting ciphertext signature 'K++wEz14zHWkdcQaIh64Vx6DBNIwT23X24fXHDl9xhjx9aENtObPo5xAZTNSldrJBwnS8x11KEceGGXDKepsGYzJR0bz1vmzSMjSouGbnRfrxaxwLM0buNLkrTVbtAYvvbH8uWeZhdHcYJQ6Aqvymv5lF/AnNygB+LNKMXne/odEbdP8Qwsydp+AJ1lq6dQR1y+OVYJvKY+IzQ5xubV++4vKS5FEgDSpX86kOGG+nTW64YsM0AgJRTrvsSZ+BSE/LYNnpSHGP+svQ0kn/O0KrsNPlYC1jD8UVTu2KRwPFaha9npkIfJsA9MB7goIbd5QfQ60EzSCEmmCTvtP49H+SUO3o/wLSNBkBCbEwSGVayhAvgr/Z38P/kGyGhJhsxSgFgZhsUz+iCuP73lx0Iq939kS823a7G3o/UK+YoWlaFWruZyGYlp/3adVudz2uAKs+dW7J9Ba1udWAKwaHZmglaZplzcR5+xDzjJ1jYyIiFOyGbunxmkCcPBKmNbn1oS0CMSYaB+AgPNyWn+dO6L1g388InDk+kmje/BnNf2tvnCLPSqSEp7lt6niTCYy47eR1w/I+SNBVb+mEhQ3s78k0V7K45mOs6cFFNUMVxq/QOW/w7J0wogmjVhRSNP2B7Vn4W/HlIAHMQx/q+0wraIZmgm86cgQQZshXgRxTGvUuG0=' with primary key.
+[Debug] [15-Dec-18 11:22:20 PM] Decrypted plaintext signature 'aaba5feaf5cc53f55bade6297a8199161034fb180aaa0449185bc67895a2156d'.
+[Debug] [15-Dec-18 11:22:20 PM] Reusing previously-downloaded 'oculus-avatar-editor.zip'.
+[Debug] [15-Dec-18 11:22:21 PM] Decrypting ciphertext signature 'AAzLHW12s2GVo79+DR6dwOlfVRe94n/75lrEGm62K+NFKE1wWRcEKM+zfK497pcbHhWvwUQJWF8UK3Xz3WFJd0zG3LvuvLcmLnGHHnNjebDakbMzvFDda3t3N6wv4qOBgP5eOPCYVCYf3+1zPVBcZ9XF3a2yfGM6tNrvuwBFtKs39NR1GmcznnDc5+P4krYh1Wg7QgEwRi+Ak8ggekp9RJaTx9mO38H9iQwXGVVqmEYNJsGx73Nf9G+kV7iRN6DpjsFItRQRKihhqgrb84D75vaGF8EYr4m1Ckj4GBBQMo65BKO24H0/zVK5gvcWPMYErLpMPvLYSk93EkQuvbT7ViqLIcIR3D63Jgx6z/fTCk3EnyhjAhfkL9GVyr/NhVYGZjH2VZV/Zq8FGLL8uxPPXVdfFE4AXMWnWTOGTETk3IKtRXCHmXtKx/6KKNJF4dHNgS9Dn2/FxAGUWF0qlOPAWUhUiDZecEffntuE6eoD5sIQ0lENh8UEG30iKjvBL+cG0CSsRHu3F+J5d6nCpa6UnQO4ZQIMNgGSElg+J9YAczmrneI+0/jo7U7lSlOmYyL+a41XQr2+t73u+Iqw/N29VE7UZeh1lBZ4fo3QRPzMofnDzJcltDrzNwCNUP4L5zQSO/Q0NbbetrjtfqyW+ZGAEKBEBiNpUhHDFTcJF/gZK+c=' with primary key.
+[Debug] [15-Dec-18 11:22:21 PM] Decrypted plaintext signature '3184918480553fdb67eca588e93b3db19b18adbba2259ddfabe1e8b61f549713'.
+[Debug] [15-Dec-18 11:22:21 PM] Reusing previously-downloaded 'oculus-dash.zip'.
+[Debug] [15-Dec-18 11:22:21 PM] Decrypting ciphertext signature 'dJrbp5aGHVaeYUywaV99f5Jdkallxq8Bj1aO4Vt+6OvR8qrA0RxqYDQRu80waxFq7d/NXgEy2+P9U3p8bNxEG/+TElUqehl11yxbjwscGFe31FjYNUwDrp7YA99c2QRHVWJCeeczxUkltkdy1suX3EzlV6c2RYPIfuHbU9mCFfmim6mvB2zD2r7ZQRyEj2Zc+pgaZKmkWkus5biSoPjJkX4GX0GNTEvq/tOfNQ4DmiCm0PaNmVPgpoqUeCcQibokoXbHsM2xwkMXGvUyOh6VnX0abw1VEiB49Tp/LOhibyvk0UhLXHyaoWbAezfDELmDt0clLv+LekfROcxIAEmNjP2QrN9Bcgf+Avobjad2LYQZYuzGYD7waA81+kc3whP7orvgi6vznfczkTKYeHeF1BqjlzDOF997O5xOyRhqURy0zdxc0VZRUTMoTr90+5/NHqrbzwkP63FHHAnO2RRRADNq1V5ZldOO4FKebfsRIKIQDgvSZ4nobVGWO3DJ6CAE0Yr4/0oe40BoMP+KlTnVFGndz2FmrmtFigy2/akUZAmlEMarqtZ8nBTUh0OuM6H07i4v2994Ot/owwxW1mdZ9qHW3O0BMqlPK1SYaMnqtcxe+G4H3EOISOOYyxkZBpJcqmpm81hMqvyP9ccdkPl63ClGXrL46Oekp3iXn/5bzvQ=' with primary key.
+[Debug] [15-Dec-18 11:22:21 PM] Decrypted plaintext signature '9fbed850763d671aeaef7c808106e024416df19854bf02ab3cd552f0cb5ae45f'.
+[Debug] [15-Dec-18 11:22:21 PM] Reusing previously-downloaded 'oculus-platform-runtime.zip'.
+[Debug] [15-Dec-18 11:22:44 PM] Decrypting ciphertext signature 'YnsliwLnjDZ+tNXAGnv0fiY1F9ApGCxcNBeCnb/qEKUbfBONr63bqxJx1LX2SB3kSXp9l3rTenn2DTpIZy6AtjULBivmkfETWMyz8TnEeNJTNl419GiuMSPwE7PT9baJT6JBy4hCtEnvxOwXLQo3e0B+hFjWxQK/gh87OirQz14ZZzdZ3KCsEo5nNTyJ1loCTrxF1okLd0WEKF9G/UoyWZ9Ce5vQpncn+FUPPe3AXjAu5UPVdJ/gazktr9me7eQFJNMqM0NR6jdZS8y60yysihaMpDjgYO5AsowuPuPB5QCH9mLbwpWVlPKnVT8kenR5BuyhI3rgxAYQWJhtGy99RYjjE83urIyIt6p9xUy/hS0sSLwEcA+GSRDd+gf9ZL+X/QVyt7PO0th555ovRT98UTOVxHhPE+qlbw6kLWoIntsf+QCR/Xsrd7BP2Z6l2w8N61BUU6TMKEvL679mRiPezDX+jTdfOkGv7Wx4N7prg0gq1bFwx8zU8HVC6nrSc1KhCP5reKbC6LtBdcVgHC5zikCPnZh1q1RPnhFtguMzEQ8kRKV67CwPe4zvoTpmyfMoI/al9zWW3tvKSNZj9XN5UD81HwBwZn9VTDr9nU8HU/8rCsizFwn0elcuUFFH4F3lQq5dO4XzyA+VeJGyUdlkR7ABFJ1hOQCKG2TiM8h35IQ=' with primary key.
+[Debug] [15-Dec-18 11:22:44 PM] Decrypted plaintext signature 'd523848c9022813b92b68a9c37e4346df77ee2e327e4329cf974209db8e3d6cf'.
+[Debug] [15-Dec-18 11:22:44 PM] Reusing previously-downloaded 'oculus-worlds.zip'.
+[Debug] [15-Dec-18 11:22:44 PM] Installing 'Visual C++ 2013' redistributable.
+[Debug] [15-Dec-18 11:22:46 PM] Process C:\OculusSetup-DownloadCache\visual-cpp-2013.exe exited with code 0 (success).
+[Debug] [15-Dec-18 11:22:46 PM] Installing 'Visual C++ 2013 x86' redistributable.
+[Debug] [15-Dec-18 11:22:47 PM] Process C:\OculusSetup-DownloadCache\visual-cpp-2013-x86.exe exited with code 0 (success).
+[Debug] [15-Dec-18 11:22:47 PM] Installing 'Visual C++ 2015 Update 3' redistributable.
+[Debug] [15-Dec-18 11:22:50 PM] Process C:\OculusSetup-DownloadCache\visual-cpp-2015-update-3.exe exited with code 0 (success).
+[Debug] [15-Dec-18 11:22:50 PM] Installing 'DirectX (June 2010)' redistributable.
+[Debug] [15-Dec-18 11:23:40 PM] Process C:\OculusSetup-DownloadCache\directx-june-2010-.exe exited with code 0 (success).
+[Debug] [15-Dec-18 11:23:40 PM] Installing 'Vulkan Runtime 1.0.65.1' redistributable.
+[Debug] [15-Dec-18 11:23:41 PM] Process C:\OculusSetup-DownloadCache\vulkan-runtime-1-0-65-1.exe exited with code 0 (success).
+[Debug] [15-Dec-18 11:23:41 PM] Install 'Dawn.Setup.InstallRedistributablesStep' succeeded.
+[Debug] [15-Dec-18 11:23:41 PM] Install 'Dawn.Setup.CreateLibraryServiceStep' succeeded.
+[Debug] [15-Dec-18 11:23:41 PM] Partial uninstall: False
+[Debug] [15-Dec-18 11:23:41 PM] Install 'Dawn.Setup.CreateOculusDirectoriesStep' succeeded.
+[Debug] [15-Dec-18 11:23:41 PM] Extracting asset 'Oculus.ico'.
+[Debug] [15-Dec-18 11:23:41 PM] Install 'Dawn.Setup.ExtractLibrarianStep' succeeded.
+[Debug] [15-Dec-18 11:23:41 PM] Setting installed release channel to 'LIVE'.
+[Debug] [15-Dec-18 11:23:41 PM] Install 'Dawn.Setup.CreateRegistryKeysStep' succeeded.
+[Debug] [15-Dec-18 11:25:17 PM] Install 'Dawn.Setup.SetEnvironmentVariablesStep' succeeded.
+[Debug] [15-Dec-18 11:25:17 PM] Installing oculus-runtime.
+[Error] [15-Dec-18 11:25:19 PM] Librarian exited code 18
+[Debug] [15-Dec-18 11:25:19 PM] Install 'Dawn.Setup.InstallPackagesStep' failed.
+[Warning] [15-Dec-18 11:25:19 PM] Rolling back installation.
+[Debug] [15-Dec-18 11:25:19 PM] Uninstall 'Dawn.Setup.InstallPackagesStep' succeeded.
+[Debug] [15-Dec-18 11:26:57 PM] Uninstall 'Dawn.Setup.SetEnvironmentVariablesStep' succeeded.
+[Debug] [15-Dec-18 11:26:57 PM] Uninstall 'Dawn.Setup.CreateRegistryKeysStep' succeeded.
+[Debug] [15-Dec-18 11:26:57 PM] Uninstall 'Dawn.Setup.ExtractLibrarianStep' succeeded.
+[Debug] [15-Dec-18 11:26:57 PM] Partial uninstall: True
+[Debug] [15-Dec-18 11:26:57 PM] Total files inside Oculus directory: 11 files
+[Debug] [15-Dec-18 11:26:57 PM] Filtered files inside Oculus directory: 11 files
+[Debug] [15-Dec-18 11:26:57 PM] Processing Restart Manager batch 0/1
+[Debug] [15-Dec-18 11:26:59 PM] Initial RmGetResut: 0, number: 0, reason 0
+[Debug] [15-Dec-18 11:26:59 PM] Closing session
+[Debug] [15-Dec-18 11:26:59 PM] Deleting directory '\\?\C:\Program Files\Oculus\Support'.
+[Debug] [15-Dec-18 11:26:59 PM] Deleting directory '\\?\C:\Program Files\Oculus\Support\oculus-librarian'.
+[Debug] [15-Dec-18 11:26:59 PM] Uninstall 'Dawn.Setup.CreateOculusDirectoriesStep' succeeded.
+[Debug] [15-Dec-18 11:26:59 PM] Uninstall 'Dawn.Setup.CreateLibraryServiceStep' succeeded.
+[Debug] [15-Dec-18 11:26:59 PM] Uninstall 'Dawn.Setup.InstallRedistributablesStep' succeeded.
+[Debug] [15-Dec-18 11:27:28 PM] Removing working directory.
+[Warning] [15-Dec-18 11:27:28 PM] Exception deleting 'C:\Users\samdi\AppData\Local\Temp\OculusSetup-1c31797e-5408-4b15-a2b9-b080c4459454':
+System.UnauthorizedAccessException: Access to the path 'DaybreakNative.dll' is denied.
+   at System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound, WIN32_FIND_DATA& data)
+   at System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   at Dawn.Mixins.ReallyDeleteDirectory(String path)
+[Debug] [15-Dec-18 11:27:28 PM] Scheduling delete of 'C:\Users\samdi\AppData\Local\Temp\OculusSetup-1c31797e-5408-4b15-a2b9-b080c4459454' on next reboot.
+[Debug] [15-Dec-18 11:27:28 PM] Exiting with code 1.
+
+
+[Debug] [15-Dec-18 11:29:37 PM] Starting up OculusSetup v1.16.0.0.
+[Debug] [15-Dec-18 11:29:38 PM] Command-line arguments:  []
+[Debug] [15-Dec-18 11:29:38 PM] Setting locale to 'en_US'.
+[Debug] [15-Dec-18 11:29:38 PM] Setup action:  Install.
+[Debug] [15-Dec-18 11:29:38 PM] Created secure temp directory at 'C:\Users\samdi\AppData\Local\Temp\OculusSetup-d3357b24-7203-4058-b96d-8081ed1f737c'.
+[Debug] [15-Dec-18 11:29:38 PM] Extracting asset 'libeay32.dll'.
+[Debug] [15-Dec-18 11:29:38 PM] Extracting asset 'ssleay32.dll'.
+[Debug] [15-Dec-18 11:29:38 PM] Extracting asset 'DaybreakNative.dll'.
+[Debug] [15-Dec-18 11:29:38 PM] Extracting asset 'OafIpc.dll'.
+[Debug] [15-Dec-18 11:29:39 PM] Found candidate install locations:  [C:\, D:\]
+[Debug] [15-Dec-18 11:29:39 PM] Selecting install location 'C:\Program Files\Oculus\'.
+[Debug] [15-Dec-18 11:29:39 PM] Free space at install location: 50831372288
+[Warning] [15-Dec-18 11:29:39 PM] Selected install location has less than 120000000000 bytes free
+[Debug] [15-Dec-18 11:29:39 PM] Found candidate install locations:  [D:\]
+[Debug] [15-Dec-18 11:29:39 PM] Finished network-blocked initialisation.
+[Debug] [15-Dec-18 11:29:43 PM] Initialising Analytics.
+[Debug] [15-Dec-18 11:29:43 PM] Querying machine metadata.
+[Debug] [15-Dec-18 11:29:43 PM] Anti-virus found: Windows Defender(397568, Enabled, Up-to-date)
+[Debug] [15-Dec-18 11:29:44 PM] Starting preflight checks.
+[Debug] [15-Dec-18 11:29:44 PM] RunCheck 'Dawn.Preflight.ConfigInitialisedCheck' succeeded.
+[Debug] [15-Dec-18 11:29:44 PM] RunCheck 'Dawn.Preflight.ConfigGestaltCheck' succeeded.
+[Debug] [15-Dec-18 11:29:44 PM] RunCheck 'Dawn.Preflight.CpuArchitectureCheck' succeeded.
+[Debug] [15-Dec-18 11:29:44 PM] RunCheck 'Dawn.Preflight.OsVersionCheck' succeeded.
+[Debug] [15-Dec-18 11:29:44 PM] RunCheck 'Dawn.Preflight.HotfixCheck' succeeded.
+[Debug] [15-Dec-18 11:29:44 PM] RunCheck 'Dawn.Preflight.InstallLocationCheck' succeeded.
+[Debug] [15-Dec-18 11:29:44 PM] RunCheck 'Dawn.Preflight.RuntimeInstalledCheck' succeeded.
+[Debug] [15-Dec-18 11:29:44 PM] RunCheck 'Dawn.Preflight.RebootScheduledCheck' succeeded.
+[Debug] [15-Dec-18 11:29:44 PM] All preflight checks passed.
+[Warning] [15-Dec-18 11:31:05 PM] Found previous download directory
+[Debug] [15-Dec-18 11:31:05 PM] Created secure temp directory at 'C:\OculusSetup-DownloadCache'.
+[Debug] [15-Dec-18 11:31:05 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\teaser.wmv' to C:\OculusSetup-DownloadCache\teaser.wmv'
+[Debug] [15-Dec-18 11:31:05 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\visual-cpp-2013.exe' to C:\OculusSetup-DownloadCache\visual-cpp-2013.exe'
+[Debug] [15-Dec-18 11:31:05 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\visual-cpp-2013-x86.exe' to C:\OculusSetup-DownloadCache\visual-cpp-2013-x86.exe'
+[Debug] [15-Dec-18 11:31:05 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\visual-cpp-2015-update-3.exe' to C:\OculusSetup-DownloadCache\visual-cpp-2015-update-3.exe'
+[Debug] [15-Dec-18 11:31:05 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\directx-june-2010-.exe' to C:\OculusSetup-DownloadCache\directx-june-2010-.exe'
+[Debug] [15-Dec-18 11:31:05 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\vulkan-runtime-1-0-65-1.exe' to C:\OculusSetup-DownloadCache\vulkan-runtime-1-0-65-1.exe'
+[Debug] [15-Dec-18 11:31:05 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\oculus-librarian.zip' to C:\OculusSetup-DownloadCache\oculus-librarian.zip'
+[Debug] [15-Dec-18 11:31:05 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\oculus-runtime.zip' to C:\OculusSetup-DownloadCache\oculus-runtime.zip'
+[Debug] [15-Dec-18 11:31:05 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\oculus-drivers.zip' to C:\OculusSetup-DownloadCache\oculus-drivers.zip'
+[Debug] [15-Dec-18 11:31:05 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\oculus-compat.zip' to C:\OculusSetup-DownloadCache\oculus-compat.zip'
+[Debug] [15-Dec-18 11:31:05 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\oculus-client.zip' to C:\OculusSetup-DownloadCache\oculus-client.zip'
+[Debug] [15-Dec-18 11:31:06 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\oculus-home.zip' to C:\OculusSetup-DownloadCache\oculus-home.zip'
+[Debug] [15-Dec-18 11:31:06 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\oculus-redistributable-installer.zip' to C:\OculusSetup-DownloadCache\oculus-redistributable-installer.zip'
+[Debug] [15-Dec-18 11:31:06 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\oculus-diagnostics.zip' to C:\OculusSetup-DownloadCache\oculus-diagnostics.zip'
+[Debug] [15-Dec-18 11:31:06 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\oculus-overlays.zip' to C:\OculusSetup-DownloadCache\oculus-overlays.zip'
+[Debug] [15-Dec-18 11:31:06 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\oculus-dreamdeck-nux.zip' to C:\OculusSetup-DownloadCache\oculus-dreamdeck-nux.zip'
+[Debug] [15-Dec-18 11:31:08 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\oculus-touch-tutorial.zip' to C:\OculusSetup-DownloadCache\oculus-touch-tutorial.zip'
+[Debug] [15-Dec-18 11:31:10 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\oculus-avatar-editor.zip' to C:\OculusSetup-DownloadCache\oculus-avatar-editor.zip'
+[Debug] [15-Dec-18 11:31:10 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\oculus-dash.zip' to C:\OculusSetup-DownloadCache\oculus-dash.zip'
+[Debug] [15-Dec-18 11:31:11 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\oculus-platform-runtime.zip' to C:\OculusSetup-DownloadCache\oculus-platform-runtime.zip'
+[Debug] [15-Dec-18 11:31:11 PM] Stream-copying 'C:\OculusSetup-DownloadCache-4f258954-3545-41a5-990a-0602b55129f9\oculus-worlds.zip' to C:\OculusSetup-DownloadCache\oculus-worlds.zip'
+[Debug] [15-Dec-18 11:32:10 PM] Decrypting ciphertext signature 'QD5oztGtUgPF9tt5Lb/W6v3yyC40r3rfH23i7KNAAyoMbdkrjijEae3fdWvVO8W/jOLl2s9rMopJx4pX4prCzBTTzhF2EOJVKrDwu0wQOn6peYrohfOrvPXdAUzE2IctncAtnTwfGcJ9muQk7Lt/TqUHc06tf5cIgqulb4S10QQcdmNPBiaKyvbtJnZ1nDevtmQeU/aQxygDIdSdTkwYNpd2nspkwd0wpHMk83IhBpMtzQkhzOMGzB9h27qoLdQgUTBnSSXzH9exStIMlq7nsI1mozRCmEH9AgcytTVjj4hypPhxxH9aZRcSijNCf8mNaZCsn45AsM004XGr+szIUmZh+rvSbWEb9mbHaihePzhgxKem2Dm9ghZItvhd+aQSNpW7lVwwcl92RMD0wAZGs9EgHD98Tmu6NwLCNGqprqxDdiSZbsBPjHdDI1UpbE75hwAujyar/Jm2SgpTqWmbBS53uydguhqqFFkbhGQbGhlMVyAjiy30Olu2JhnEtQ6hu+ieVoXHDvHXC3l6/XGAy/1J+5xppXDuH4VleJ5P9DMuCWNpMpjCodXmxbE0YWGYh3rmBqfmdvpbOpBxOiFVSRNvwexNPntPUtjNZCmkCJ/84Dh6rURNPsBi2yk0DDn1ViO+RLhm7gZyHZMmqu7hqd3LzVvHfYnn9H3UQpIuLZA=' with primary key.
+[Debug] [15-Dec-18 11:32:10 PM] Decrypted plaintext signature 'f49cfe8be5173a61858bb6fed69e0bc0b27e00e44bf18f17ef9b29114fad5584'.
+[Debug] [15-Dec-18 11:32:10 PM] Reusing previously-downloaded 'teaser.wmv'.
+[Debug] [15-Dec-18 11:32:11 PM] Decrypting ciphertext signature 'eb8LVfGGf9rXH8TFT4Hr6cPdoFQVPw/Abpf2fntbtDGaj/IsQNbsvJkBPgySXkCxJCRIC2yx56fDsM4jp0I/yzNY3Bf8p3N1L3WqlQpUt4+3A/ukdkj+PLMhXPtOxNeUwxPcYl0YE8AJNpNC96EFB6n+ZNu+CUjyHgSy9CtAAJ5+BzylLiXVCXJMS99KkkViIcu9wnXukZ2Wjo+I/bI3Q/iYe3ziwIqupuaAbCfT6wK4IDjsdAshZcs1Z4iwPt3zfXMSBibIGovvKN72ov2nKaL82Emr4ioILtZXKeS0YOj4ocdzxa0CVCrZHmGuapy9obd+D0F2/7ei9f0ozz+GllIcL7cwM/wFuToCfqf0aBxaj2ochK0q3LPv5Mc2J3z151NgQe8EupkfIQMjSNpQuf8KjnctCORmntGHzX8lh2Hkdd2L78GSYvVboyyOqnqvUXjBkOm68ceXhdiC2G/k8p7OL4l6P4Gx98GTCFXjvaEpJuf3NfuakQqKBHGd9kRVtn+TTCZnUAqlXz/r/sW/4Nx+vUmU3A4ILW84JIVo7XkqGFeFSG7rBDB7tpwPSPE5taYJIy4L4E0a8RokLQxAaaeZo7j1Kot4cd4N8gxXcSH/Cr3bPTTBvv2z08+VD/kkxByOQX1DfpUHEAQcnRTENKV1M7+STYJYf/J9zGI+xTU=' with primary key.
+[Debug] [15-Dec-18 11:32:11 PM] Decrypted plaintext signature 'e554425243e3e8ca1cd5fe550db41e6fa58a007c74fad400274b128452f38fb8'.
+[Debug] [15-Dec-18 11:32:11 PM] Reusing previously-downloaded 'visual-cpp-2013.exe'.
+[Debug] [15-Dec-18 11:32:12 PM] Decrypting ciphertext signature 'UVGV4fJCDt9KeWj4myASa23odLHTUI2FUwWKk4i/3kucyki08wgel+m6mqqho+YdX6cDUakmFT7VyTw5Pi1hN0F5uz7E8vwWkTyXAJ0qTnt1b2EdgYBSm8nUxQIUja8v1s8d3xB4tE1YJFLWZZ2CWsrExcaNdj/LWdVfawS5vnLvmGkmivbBFKmd8JKeGtUI0IHhaMVbeWzWBR3ReQ6NnujysVq9dh+3zdbsHTcq8qaHemPhNKNCQj98mW6cRhHEKI1NYSg5EkV7ditpPsHQg5++o44H39pgWArZJytxYpDuIewjWR+SDcocXOD4gdHcMbbsRlgsY/XPGDjxV9noPeRXKgmhbH+aPxbVJCl04B5P9IIWtKS/763qBGvI8SdsAaTZM8kEa/F1LtSdBGeANqzpwdy5Z+mkrKDtAyP15ZIL4X/azPfnQvd21TFNFCn7Q4XJCfzcsrnn3MfgG7cwFqVpW7EyDsLWCZcCkD9kujEq5GRCjSHRl3Y9pa6lAFhBAuWZEWlHWYG+LHR3OGpauRCgbFPviql1NCDjN70LBJQPnP+pYb1ikbtZn6ba+o70MLRgoIX1fYwBeuZK8dqkGqocAxNFKKuDiLA/SY5qOkKMCvr3efz/0IeaQsKn/sffXX0cAKvUKiwL21G5weE6uo2hS//3XbxL0+8uKDEBhx4=' with primary key.
+[Debug] [15-Dec-18 11:32:12 PM] Decrypted plaintext signature 'a22895e55b26202eae166838edbe2ea6aad00d7ea600c11f8a31ede5cbce2048'.
+[Debug] [15-Dec-18 11:32:12 PM] Reusing previously-downloaded 'visual-cpp-2013-x86.exe'.
+[Debug] [15-Dec-18 11:32:12 PM] Decrypting ciphertext signature 'VLNXZz+0CyO+9vh4lxGfw1Eix47DuP+hBATNT3B124UzG++n0zV+d3LCV4jJeHUr1NTtRT7BVOb7P54WeDRslfOfoa96+GP7FUnXW+e5gaXtgBU0CiMfg3moFJrlQfT8IRG8jW2TenPQmUnYA5nhD7ksh6W0rMKx6Fy54SLm+a1EKHlIuyqmo4RYwWBIaN5PlVZwJiosSfQKfNQw8LUQzoRuNTItvTN58vCZqpQoerGDHN23f0SR09I3zsrQRJ+T6cNqfUowNFeqOdOB0k0wdH6SyQVJVs2aWBXm+WpfMrzvizne4AkK3Xn1UVZiFwuPRc0Aae3lW5Rgb9lTXjm5pNRNp2ROtdL4x9qYwqn4Fp3Hc3XI5cuq8LY/D7SsZNLF/LuBQikK9h730IWHyugVvwKrmwTPIg8j96ZUQj6kgcTyiBQailZoqnM8T/pJ0RHWzARldqopIWl8yO4sBZUCgYRJDsAeHZWkkXeeI6LD+BeXoIKmT/6bk4AisVcA7PGOcn2PlMivxKZf138zQoECsCsVsC3tQUuybMTtE7YS0oLJHQxBuQ/aIEVDmRMT73WSAK7y+tQzqupyWQ4LE3MDzz08zy0cVPBm3UHTYIOjspXyD8AqVl+OYUrWv8GO02QEeZokXUzRTkczs1pZ+MTQVDMGtiN1oxkl7m4EyCabGKs=' with primary key.
+[Debug] [15-Dec-18 11:32:12 PM] Decrypted plaintext signature '093b3a58b33df132d12825726e03d7f43b3eab72886be00f79f529f1948e5d16'.
+[Debug] [15-Dec-18 11:32:12 PM] Reusing previously-downloaded 'visual-cpp-2015-update-3.exe'.
+[Debug] [15-Dec-18 11:32:13 PM] Decrypting ciphertext signature 'R/dRoXmkep3zLWazJwpegAiUt0kply1efHgaLz/1G8gxYaCmbTGJ0czN1meCb2y7yuGk63Ng/vKGYQYlIax8SpAZvpYpTIQNIW4GjVVbV4EiWsZ3Ulzn+Vnj3oVJBp+pl2zyqnZElF5BoQpX8GoRMnGBPaHfdJpo8znv5JZFkbVjwAjuMy1HsLiNRDiH6w5kLjtty9ccBsFTy7sbcyDfT+boh7SX8DqtL0cdZRGxwe+4312cjO+RlcajnJy2TefFz/5ID9eiAV9gPyaJdfJgMjO+4amDA+UxbolsJ8bCdNbx6qlS4KO5WLgDCqxLETtdyDRfxR/eV5hBs1kV8F+Kw5nyPMR9ey9L7oicEeV3hkx/4+zgifTu0wT0PDxzoxRbJ6ynegpJqdmLa1HSbg/onPmSUh9Qgq2OSp20NLWEHLzFtw7FFTGK7MUHZSNKwftL0dqSiVlFZITZetHOHyxhgfuDYkRaa6c125NKzfl4HzyPBG5UIDyZ8+0bD59GN2JYaQL+nhhW0jHurPHFao4QpEY7uIV7jIBfmOZJZgXDDOb51zHcApCVPneMLoJyCmRpDW0Q493UvrpNjSkLhLWdlW/PUBV9OgiiC4X56dpDLl9mhXZLzQFH8ZTnlulcJREsQZiovHNb2lZXJhg8bJ0xfVdPhezNgMAFpj8J3N1hc6s=' with primary key.
+[Debug] [15-Dec-18 11:32:13 PM] Decrypted plaintext signature 'fbddf27f5477c0823c5b6474690785c8ab458ad47d914e2340339dd32495621f'.
+[Debug] [15-Dec-18 11:32:13 PM] Reusing previously-downloaded 'directx-june-2010-.exe'.
+[Debug] [15-Dec-18 11:32:14 PM] Decrypting ciphertext signature 'f9iIbpEWSpNcMxQFQw1tvqw9F3iF+tXa2Ef9FWrvm1Xbj4mYy6Lm2BT/6VVCv3cvNvD27zpbLok+FGk9j/OcJuBzSe1fB3B5ucFRDpc2Dd/uuxH/mv+GsO0pnybR0qBVdXI+7TwgzAngJl8EufKLnq2yObWxVsa7fGXGPQUNV1t6KyfNlrcF0fqDaGIotPvn13FUx4aFuroVlH7Cx5DnnPezp6xYSiJR1sdpWmsa0cK9EgtHanqpRLRcEtkBO9/YEEc3k6InYvpsnPhaxWrjOdY6utO8t+gZaJwuPqsdgZCMFJ83sbYhZGwvdKWWaPKicoAo6ZWRhhKro+p0CZmaW7wxb7MAe8bVHTFIi3Ug1ByWESL/1LfQGEn9VabFt8eNEo6PFdoC6Iz75/LgUD3XSLQYvWER9AAoI9tY+skSaOKf1iWsBRtPcMcRYp4O1x3MVrp4emDyM0YrAntWHtCxrdMc7ccwqxjzeb8Squ+1bHvyFSkzt0zv5eMXhJBv2HNp8xFpQMeiaZrFeWc6mU8+K+vvOvBbY4PC5nq6vden9dfKae0qCZNqKot5xgUiovhKUpMmWA2QPWZmAdzKuXpT3h8d27ScTYcgic5L3V1oYdQQ1Vqim0cpE5pT88BWDNkKDoUvbZFyXRm8vH+42QDi9NU9l7tkCndFCd+3dXLxxqs=' with primary key.
+[Debug] [15-Dec-18 11:32:14 PM] Decrypted plaintext signature 'df9c559ad77ee21a38aae79a35d4e199f0eb8e6c4de78b37e849a95560f504ba'.
+[Debug] [15-Dec-18 11:32:14 PM] Reusing previously-downloaded 'vulkan-runtime-1-0-65-1.exe'.
+[Debug] [15-Dec-18 11:32:14 PM] Decrypting ciphertext signature 'nxw3C3TLTcAz6ybp7u/BWKV98dqCalnvBiDPttCAoFLBUhQh8oq1m5GKU+s9LyW2kF8rSuK+uGiHqGAfhm5/5ySwFD3Y7xIDGdhBfBRx6hz0qxuwgC5FTpcz7YQwYBFpw8ge0UVvsxicGGQUbQ1b8uVgvVZL5PKMjAsmKren9sYVywp/ynP+mfVyB6yvC+GWq461LiGmE8cLTB/4KyI+X/28tiuGzlUnP30Ie5DkfKmKNKUWJNtlwabJ2J93t7LonSyEdXHluh41ZZfSZGicIloQFMMjSXFLF6aVq4F+1nIdvZ/DOp+RasioU6DGZxaCjfOVGmWl4hnXhMh1tIQN5Eps5Z3Bsbb/3o+eaPJLYbupZzg3DicA8pjv1gdpVCw3GFNy27vRrfiu5Ir/e4jOkdGhRramMQcE328jpbzY50bBuHBfvQij1WJQMcVxcAQrqpNP8srOt7r6SzYNZGQF7XTwd8ELEogvJcEYEV3y4bWoahXMarop8jSb0GVW05TJN3Bp5z4bpvAa0CJsGNnyUhxp4Pz2N9ax4D8gys7PnDM3c8B0sGVCVwIVRGZ5E+w3iILDPWbtt2HOIik4gYCN8jm2aH16xcBrc+FtnkW/LiAM9gAPJ+PpvnKaMAVFUlvbZus2GdSB/lkKLl0mqMJVRfGkh31wPKzA+OIjvMPSip8=' with primary key.
+[Debug] [15-Dec-18 11:32:14 PM] Decrypted plaintext signature '5d621bb32df6dafbfabcd28d64d6b1a84b3b20b15b27fe851a4aa38b4efea7a9'.
+[Debug] [15-Dec-18 11:32:14 PM] Reusing previously-downloaded 'oculus-librarian.zip'.
+[Debug] [15-Dec-18 11:32:15 PM] Decrypting ciphertext signature 'G9RXoY7bzOUmdS0eHXSpQ0Zw5vJQnaTn60G+b1rlrRd9AXFhbZR6gZlL7NyXCuGPjfrNg/mT0h0UgGyoZqfw8ewB2LLK147ZDqx4oJpHVHrvGotFe3KLQ3M8EI81HAyttdB6+5aEVD6aitz++zOfZkH2FUWMp6mQqvBupUAUz33KCezS1Mwou/P6k5LOhpgv7zAdALhKzHguqmAyWQ68iP9wNhIE4+zQwXcuj4J/ZOUtboY51qOiLf218Vo4VfloeywRTyRZKVegxF8WPIzAiLLBvcL9tdP6COYliebasm0Ts3lvjTj0j23H/ToafWzqKqLruNOKFegvKoEwDLYB9T/fpljOiiUoKcVg/RUWJDFu9wPHbhGIgW08Q6nl2vzZVVLfigpqKEXBLT4mZl00cOpUbeV2Eo0orHvt51sdSVq+OyNz0WmejzsKswIpHI7EaGqX0zVTFOsmRtx+j/WdNVAj57hL/llvugXc0GxeTKb1jukk8MGozvQwjyhIjpRFAkk6nf1c7HVpuE218GG7GJ8KeoEt0qDrG98wi7+8dFRHlxvX//XqKTkVNEVwHsMyk+g8AtkFh5DBCn7VyA9tDGTy0v0t8lr8H9FlbRpJA02uI7XT7AQQN0jPN+9G6YVuieNGu6EMnsSxSrOPx5iSFHrMi7Vd7mcS3HHKi43QaE4=' with primary key.
+[Debug] [15-Dec-18 11:32:15 PM] Decrypted plaintext signature '2e5296912418ccb12d25d173c29f5e4f8cfb2f4a2f5308df939b9e322a17f76e'.
+[Debug] [15-Dec-18 11:32:15 PM] Reusing previously-downloaded 'oculus-runtime.zip'.
+[Debug] [15-Dec-18 11:32:15 PM] Decrypting ciphertext signature 'ASon3w0abPIIqnFv5oOo2usc23v1ba+NCdinM6LSnwjQQfYu5f+59yKFeNkvaBiGY39Ndk94cm2pT2WhYYbn5z9m3tHwpnjS+l/h67ooY9BnpdsF1kcdOu5JBWrECBqhlBoPgvJdr55al8rIdd4ct/Ec/kJH2kr08GoTKjqOGf+IeI/bHGr0J4iquJVeHdJm7IT5z21ABxcXjMei0Yi2ODAQJB8vSdh8orwMg10ch0vp3mTkrRh+sID/kaFnEuDF9ZYn8+QRtwWTRSfgyBhoG6GX2g8zS9uJQ1vxSsOUPqvZILizBatZ4ZOtI5dEu4P+UpgmMnp6yXUmBexdUuRNeqeXjhwmmXljbJNC5bchtuDc/PgIK5TvT/VC1S7xwhZPV/AyH6MmEIcEwV6SzErwZ+7SZxPZS2cNNHlaQ2RkVNSnrOStfL8TBBj4tzNMXr2N7e/PLmRxnsyBuX4STNNJnlI2RcpXJ4Q9B1Yd/3jx/ZOzscXGWOvT6XBzx7pqeISNLGFtEERIstTjeM2ndbkh43Npj7+/P4yuSzJaju7Y0hoQmFKZaJYtAFKR4l+UeFXO2rMgvbeDHSwIb/cunwqWZJp/tT12Obq6jIPj+9wfqmIjbweQO+vQILWJHCAZie6MtK2Q3zWyJEZSe6ucYPV1ux04J4puS5amkykW3p5dkEw=' with primary key.
+[Debug] [15-Dec-18 11:32:15 PM] Decrypted plaintext signature '5b8b86de78d188f861a41724bdc8b9c3cb50cddb0b96cd16311b5dd0dafb02d3'.
+[Debug] [15-Dec-18 11:32:15 PM] Reusing previously-downloaded 'oculus-drivers.zip'.
+[Debug] [15-Dec-18 11:32:15 PM] Decrypting ciphertext signature 'qrjo8gAb+hL0XKviEL/fks6ZlQK0LjDXHF92wNBShQIS9ImCJNGfG25Ai/TvPfW9zeA57jrSt7VijmsG8RTuwxp/FTFIwG1OnhgQhQJMH+aFACZPiiKNxJaxOGpd35nD7WxfDLMFnA+4kTy9IPLzeXXG91432gIlZmAKliRGXPJt5qv+Zkh6ayqbz6IPUySeFHa9MqRVr6xlUZDBtM4MIEUhX3LBiIxIcU8Xo8WR5Yao2Os5tA+hGtPpGiP8Bl/JdJsHpKsJ8Ht4c6XZgxEoVCiYkAUHqKrZiNjAt5WjEvnl48u9X7KUiO+zbYk6/IvXyNrSg1dAZETZ8wVbGciQaKHCQGjEaZ/445gBeM3/e4iy9tJkcMYFthkGumOxa8DeLt6uaDxAW77H2eFM4PG+Jd35AFnnhpVvWx40KYw0wfCpZZgg0+Lq8CgQ0Of4RQZFJhTfOnaAphSINsFlHKZkqDYVRXDjdJ/ZD+eOk33837lCZ/H/Epqe4X12UQrN2I5CCtJ/CeJi+w9dNWJ14d6ilp2rMpTb7T+Do8u88c94HlkoWGHYsMUIlY1MOhuzgO4yWu+k3zqB7u5VxAzXXEI9LWDIMdlF9bGe5rfWQvQx7LXOFofiEEoEXsoyi+tzrdY4hpgdLBpamK2HJ/rmIWQcNpGoXXRSrAtlhHx0YdGBtIE=' with primary key.
+[Debug] [15-Dec-18 11:32:15 PM] Decrypted plaintext signature '834fc2f7a1dbb8cc817dfc36a4d1d8c071116c75efd3103c87bae38431499e71'.
+[Debug] [15-Dec-18 11:32:15 PM] Reusing previously-downloaded 'oculus-compat.zip'.
+[Debug] [15-Dec-18 11:32:16 PM] Decrypting ciphertext signature 'PvEYowGTpJilc3L1n2PfVOa4DFstReN/7UC5tQXGX9eALD5MR2FJH2yR/jDM9kf3NqyvDSMtEMKERSFp+ADWtsco5C+CfbRU7cOYsVI1EXR0N/LF97d4v7FpOR4p5laIs3pJVT0ofJzyQHsGj0fWYGwcnakq3FvPONynQIsKfPhyFrHRdEFqaQcLAmtVfULN1qQec7Gtdcc20yPhIkiL1Bh60VLZHl0vGNE4yP678+VR2yXbA++uWERq403gYUgrOz5t5mWdcvMNZpyP0w/teyBYuVhB6rzMMOHYB7RdByJ2HU7/TjYNI6/UPAHzDjFZS8AQl0HGqME/NV8rhnBDcD9ZjXQIsiYg2e7D0fqKKOGsHpjAtWwLIicAD0wMwoUYvwxW97H1dO8AxW9RhPbNAXW+i8YTX2rsw+cBfgec3yYo2RwwBjDVlwcbe+wRrRAKCAWmzWWew9he7V2+7Ul2AH2QSYxusodonrtXQG3JP/p1rgjB5Tglw6fLnGdwajiGESANTJQBr5WEDjRTxStqyplyQCbFgmDizYywcDHqvIj3hmLV6WaDgkmpjEdfOulTd8jJJspu9IFrpCSHR67U4XlaZrNLq3ZJz2m7pRtiZYJWCcT/hQjc4zxKIPfxdHasef+U8M0zVeqMTt2imF61jNQ7muU7QTM7URxqc5tKYio=' with primary key.
+[Debug] [15-Dec-18 11:32:16 PM] Decrypted plaintext signature '27b2f12af6ead7ceffa0a20f4d70e30b20659b8eb4664b15f60518010f3c65d7'.
+[Debug] [15-Dec-18 11:32:16 PM] Reusing previously-downloaded 'oculus-client.zip'.
+[Debug] [15-Dec-18 11:32:16 PM] Decrypting ciphertext signature 'qa+zst63S0oc33j5fnARwzdTl0YlPSuSPpgR3GbiI0Pf9Y+YDZXztPXbepfbBqKEpnjGOgoRh0ZNjdbVZgoVHt8yAhbWz4TJiqAIJ96xy5CO0HZc2bNfthlgWo1EYOWO8LGFnZNMTrQPbxP4VjaS+j0TIf+iYziox7O9Hj+woyGmc+FrlDivvwKuGPO1vrOQMmSWLog3UHvIkSkOQJsyXdnHhq2b86HYW6bQuzGGMRVvaQorlouED8wbLBptANv2/xg03+LKEFWYdXXcNchMCqcV5KJOaa/newTnk724FJHsH7SPDWDrEROe/VSQBdFErWvb7vSs+zbF90aQzvUzze5Zy7syKEHCpKXsbm9csX7BiCbMy76j4g5rVf/crN4srIGahiFcukkYviMM03fE7U/qKWKiQn59SVFiA5Wh/2YthIPQYkHTEpmQe7rAKZMXUxifJVWVZy0YLoO02yxe1bkzWYoT9AYEIO5Ek9tsrx7roIZYqGMjj3WvE/Kg2GOsqyrhGYnrvX7MJwRvm7i7iC34O8iK8RvvOfUcHf810N1L+1ArLv9gI5XvBeiLL5u7r2eFfkQ7Z4jrMFCf2Fi2ZgYAP6OKfs5tCp3EjDiHY5NG8GY58U4i+R7QubziZ2oj5FmcJ0O+6iSPca7IZYtdGXW68dqVJnhr9FQ7jVog7v0=' with primary key.
+[Debug] [15-Dec-18 11:32:16 PM] Decrypted plaintext signature '07aa14962db08663bed0e8613900654ea2ac5bba47ca3ca3ae565da7f31e9788'.
+[Debug] [15-Dec-18 11:32:16 PM] Reusing previously-downloaded 'oculus-home.zip'.
+[Debug] [15-Dec-18 11:32:16 PM] Decrypting ciphertext signature 'G14Uycbrzq6yD0Nbdwrs+ANZ7uuQ0yyx5GzVm8IHuvdyjQRst5FbIU81uIBI3PNw70qFc5s8G8f1Go0NBB1nO6fsOzFHJNqJI5NA9WpfjmFjKWA1IwRMhkHEh/NyYmRvUngqNKBmYkMFW19Dy/xwDQG5GHDcC2kJsa8kZtdDkgSjrOC66J8A1WxNsF/imhdbdK8aTpfTYnLXjFRZwaxVmvSGEQOLtlc0y2+EeAe86aooOgy7NCYdViKzrGoHhCWOP92dSWURICIvzk+HGtfHbQZicD24cXpcn7Hrc06PQ785spycoBxBzP7XdpvLtzupUHMd8P/U+4dBfyJnVvc6qAgn80x8fS7OKwR4BZGAP14JqpFLLXGlgImNfKkgJzwReJwfwjQld5eZyaa2v1H6yXt3kLZ/tixCfD7zjYFw0yxxqwRIw/lheeW1THuTFerd0bFsLz3XML8cHrj+U/6ZUo323AzfRKDbYoh7gGoHYy9bWX7qLajqwCp5B/Fm1PTVwKssMdJfrC+AOzqgwhGjNOo2gWkYymOecl5MStA+sGY6MQy/dAt7NIS8kmk6p0csJpVncZZWDl888GwKEF4bs8XqXlm1OresJgUhTM+U1J2MKog073e+FQ7WefuPB98WJC4pp2eScYwsUG2pHBhzrbUkH9EhyjLT6Gyq3SwFOck=' with primary key.
+[Debug] [15-Dec-18 11:32:16 PM] Decrypted plaintext signature '3d363bc043036fa313238bcfb07e4fecb6f6053f394e79d3e0a82eb0032b038a'.
+[Debug] [15-Dec-18 11:32:16 PM] Reusing previously-downloaded 'oculus-redistributable-installer.zip'.
+[Debug] [15-Dec-18 11:32:17 PM] Decrypting ciphertext signature 'GhnCHesShW/u3iumiD/Ka4V1awBq0X6PLLJMSM+07CifLo+jpnb679u40SRL5DjdJmu2xSgITlkBhSPKf+3BgoV+O3f3fu7klNPYe5Y+uhOh/YTgP+oLvhrKqPYcaDD9HUNQdOXJioeJGsp5q/nntzgcR3aVWbU8jn0k2sQrZ5yPSD0EwCYo3Evx6bfRFHEJd4lnFJGtvsKJSg8aE161wQxh73VcwcXWTRSDZrttSWHBhYLd+e6uNI5mEASfi3dlOyZtekIyWiJXSIPeD83+Hh684CxybTp3YaEVSQdFDvWT6pGikFEFOnLoH8vEl3yX4xl/GILuNwxfGo/tzNq7a3aIc8iPaEmbfGG8Rt02OXNa5BojWbXDVFHa4LDKIj9QesOfg5jaV7mXxI/o1dWhYkoraHdMFOKeRuB6NKQftp9zf91ugeCiqoEP5JQvgeomSoxii/zF5yRITlUtJqU1VgXgVVvC5ZR/aVLMlkyOmqTCp3vo3vJGLfYeVHNgh16AbGR5Gmv3uxaMOwaqC51wZkrC7ucjsGFj3GCeGPD1EORrLJzwPm1EvQ+6Z0ZCrogndNBXL04NGgv6rEfhLyqjhdKaMIyAKon4ufTfoHfOqilrRWmJq3bJZJDIx5w0Kxh9PFjInhie0AXZVSARtmeP8fJY6M1NTyMHaEp2Q2CNrKY=' with primary key.
+[Debug] [15-Dec-18 11:32:17 PM] Decrypted plaintext signature '1acd07cb6589d715856ed4552c42c96c2f876285e8a83ab64ecd3c50c048597a'.
+[Debug] [15-Dec-18 11:32:17 PM] Reusing previously-downloaded 'oculus-diagnostics.zip'.
+[Debug] [15-Dec-18 11:32:17 PM] Decrypting ciphertext signature 'Mg3zN8ySya28fii31wRvthCip/fsSxQyEiSww0zwZ+rWeJSFn/KsK6aEu9xXTVWnG2pi9MDTHI+yxUvxGOyUi52pONiKJJWNEP9kmZ9Og8fGZFDQOW9k1Q4TXYoKWjlybI2u+GB52AhbkT9WdICV+4GobdhcT1s7O3O071v5w9dROIufZRQLxB01yqPnBBQ8L6qo2Glb+dl1/xxZtPOwSJjAkqJpKtSjJC8q50aFzlQW6KuEyDN6L2nqiUj/MOeV853E+a+3c7hPbsmK3ZcVQ/IhnTdNyLyWpVkxK++fM8uzU6HzYTrsTjio/I6bdLeHAdCUrGF3w7doVHJ3XDiyhSA55Xjye3zdchOg67u8LDhpQhN+YvzBvnT8j/9Xt7VlCGXaZC1q40v/IV60cCJUjOVquVb9FlSSskRrrPUl8r4UsIN/tm56NROpJUPWCeKZT5E6FWlH7l5sGCjbWvgLCM9BDCGcRO31TLGVJVkZYYGB1K5swaEF/IbGmaf+UBBaPTQTxmqJ5Acls9n8lg21PS0PMxTmKyUaZGv35FCblISxIe0tMFCTpWC4civec+UhunuXrZnMMlEUV0XtFRXzOXkdM1uaMlkMePTRv8ChL4J4Hkeh7edDQkYlUjrpKNt99nlkMdLy01IfSNCR7T/+K2wz8TfOvCFA8G6pT358IIQ=' with primary key.
+[Debug] [15-Dec-18 11:32:17 PM] Decrypted plaintext signature '9091023e1151b075ca1d7a3c53976fdb5ca82d3a8ffb4bd190af6e2baf3f6747'.
+[Debug] [15-Dec-18 11:32:17 PM] Reusing previously-downloaded 'oculus-overlays.zip'.
+[Debug] [15-Dec-18 11:32:20 PM] Decrypting ciphertext signature 'C3ltorK6x1xn+zjteNNQ3EmStbJfu9aXrRh6WPk26Hz8ck0ARb8DprnSTHtrLGGC3GwoEWDqgCu6rxCVgjIAMAJcNBt6qNpCdKwEmmEnrn/NOvgRGUam/34l9C74O8SrO+vD82hx3Hg2ImpTa4CWhQU0pDOKxEXM6hCmtsLeIpdp0gFi38EPL6MEOaLPwzZQ7ggLenv5+gzlCcUqptibOpklc2KUh6HMcE29z42zKUR5V8C5viC9FyMaN8Sd+qIsEhCv6dmwEyRtpEGawiJFuTJqkVVFws1LA1zsL0c9Jjtv7kxeaCusWMYOUFsGk0Mj9hZTaDvIp48PPCHVRBwbBUfOHb9S0Br9lD0Vw7epccW/qe6uBWjGMMEmbvWUavE5LapAmF6aj/W2M9WRvG+MG12IhU3KtD0cSmbwtNm/k+GDsv8GXyK3u86VOYRZHo0mCXMZr9l9VQGag0a8cKnDvXJJ6TziGs3HKwY+ujZH9bOJjpLaV506/R/O9QgkN6k/D3x2fifvPVL0o3ThVu2aoQjpvzh8h7dNJqlJSbKyvKxkKvj0VEEf91rWponJftTJ0q3aS2Aj3nUKFw9f/MvmZHNtTMepRAqFOtUPKQy0w0m+SWJPKMrheBrJYYZHmwP2AqxKjflC4K7KRj/3Q8i6nAkEkN4ag4201CyU1mo+xBU=' with primary key.
+[Debug] [15-Dec-18 11:32:20 PM] Decrypted plaintext signature '547c0c03730d6fb99eb90fb569e08c7ea9ffb660d27b539f84cd94559c59c621'.
+[Debug] [15-Dec-18 11:32:20 PM] Reusing previously-downloaded 'oculus-dreamdeck-nux.zip'.
+[Debug] [15-Dec-18 11:32:23 PM] Decrypting ciphertext signature 'Ll/ImJroDJoJ78WVrqCfkgRadX0aCHn5o4lkKl7YrYsU/bAsQa6YBQ01OiWtluAiqA4yrJz5Oae/jspHiB+ZSX4oNYh5RE4h4EiNboICAgtIxOIa3OKj3qYxaMP8LPizk7lwQwJxLVXPtcVwA8VXDjC4GYNfu0hzaepfm5suzXe5VYxTBmXhMdC96GP2JqMtmZkcmyPhc9kdXX3Sj/XVpfhzNZFCDvsMKI4blLxwo70DnN7PRrPOCZneIVxJXlQNHf3Vt4MCOqMamsM2GYoXSylbAEiXQyr/gxuYX8VAfjcpblHZs51UPrLANovDfoi+o7D7BQadVLUkf/Mki82DnOkRQEu1jyjKhtIhxwuVAmQHHutxQGJZal7AX6BGnu5diTRYCk7e+CaLIaA6FxB11rhQLHo8WuRtPTLPjHle9/ksFb7/mRXOKRrNkwE/zC+Hv+kVliw1cVu89gIkc8G09rfl6/pSCz6bIlUMeZb6gOv3eLKMcelQmS/zGaExYCZW7fpxSVf/hF4z1rOSk03I52+7qAddmVZ9Tox6GoHVosckKMfkIPR2hoN7Jl0WdRdUIFrH5veSZOMt0Rs+qbWIhAfWiIgrP4GLmWvqxhx6jpukzdJV6mrr7nY79QYESdkvzALgx8UlOsLW3gPiF+0LT1/Wg4N74r73B9CyVPG2dlE=' with primary key.
+[Debug] [15-Dec-18 11:32:23 PM] Decrypted plaintext signature '9682094c3869d2240c59f065591cdd15e6c08ac1af4c6a82b47853710a1c8448'.
+[Debug] [15-Dec-18 11:32:23 PM] Reusing previously-downloaded 'oculus-touch-tutorial.zip'.
+[Debug] [15-Dec-18 11:32:23 PM] Decrypting ciphertext signature 'K++wEz14zHWkdcQaIh64Vx6DBNIwT23X24fXHDl9xhjx9aENtObPo5xAZTNSldrJBwnS8x11KEceGGXDKepsGYzJR0bz1vmzSMjSouGbnRfrxaxwLM0buNLkrTVbtAYvvbH8uWeZhdHcYJQ6Aqvymv5lF/AnNygB+LNKMXne/odEbdP8Qwsydp+AJ1lq6dQR1y+OVYJvKY+IzQ5xubV++4vKS5FEgDSpX86kOGG+nTW64YsM0AgJRTrvsSZ+BSE/LYNnpSHGP+svQ0kn/O0KrsNPlYC1jD8UVTu2KRwPFaha9npkIfJsA9MB7goIbd5QfQ60EzSCEmmCTvtP49H+SUO3o/wLSNBkBCbEwSGVayhAvgr/Z38P/kGyGhJhsxSgFgZhsUz+iCuP73lx0Iq939kS823a7G3o/UK+YoWlaFWruZyGYlp/3adVudz2uAKs+dW7J9Ba1udWAKwaHZmglaZplzcR5+xDzjJ1jYyIiFOyGbunxmkCcPBKmNbn1oS0CMSYaB+AgPNyWn+dO6L1g388InDk+kmje/BnNf2tvnCLPSqSEp7lt6niTCYy47eR1w/I+SNBVb+mEhQ3s78k0V7K45mOs6cFFNUMVxq/QOW/w7J0wogmjVhRSNP2B7Vn4W/HlIAHMQx/q+0wraIZmgm86cgQQZshXgRxTGvUuG0=' with primary key.
+[Debug] [15-Dec-18 11:32:23 PM] Decrypted plaintext signature 'aaba5feaf5cc53f55bade6297a8199161034fb180aaa0449185bc67895a2156d'.
+[Debug] [15-Dec-18 11:32:23 PM] Reusing previously-downloaded 'oculus-avatar-editor.zip'.
+[Debug] [15-Dec-18 11:32:24 PM] Decrypting ciphertext signature 'AAzLHW12s2GVo79+DR6dwOlfVRe94n/75lrEGm62K+NFKE1wWRcEKM+zfK497pcbHhWvwUQJWF8UK3Xz3WFJd0zG3LvuvLcmLnGHHnNjebDakbMzvFDda3t3N6wv4qOBgP5eOPCYVCYf3+1zPVBcZ9XF3a2yfGM6tNrvuwBFtKs39NR1GmcznnDc5+P4krYh1Wg7QgEwRi+Ak8ggekp9RJaTx9mO38H9iQwXGVVqmEYNJsGx73Nf9G+kV7iRN6DpjsFItRQRKihhqgrb84D75vaGF8EYr4m1Ckj4GBBQMo65BKO24H0/zVK5gvcWPMYErLpMPvLYSk93EkQuvbT7ViqLIcIR3D63Jgx6z/fTCk3EnyhjAhfkL9GVyr/NhVYGZjH2VZV/Zq8FGLL8uxPPXVdfFE4AXMWnWTOGTETk3IKtRXCHmXtKx/6KKNJF4dHNgS9Dn2/FxAGUWF0qlOPAWUhUiDZecEffntuE6eoD5sIQ0lENh8UEG30iKjvBL+cG0CSsRHu3F+J5d6nCpa6UnQO4ZQIMNgGSElg+J9YAczmrneI+0/jo7U7lSlOmYyL+a41XQr2+t73u+Iqw/N29VE7UZeh1lBZ4fo3QRPzMofnDzJcltDrzNwCNUP4L5zQSO/Q0NbbetrjtfqyW+ZGAEKBEBiNpUhHDFTcJF/gZK+c=' with primary key.
+[Debug] [15-Dec-18 11:32:24 PM] Decrypted plaintext signature '3184918480553fdb67eca588e93b3db19b18adbba2259ddfabe1e8b61f549713'.
+[Debug] [15-Dec-18 11:32:24 PM] Reusing previously-downloaded 'oculus-dash.zip'.
+[Debug] [15-Dec-18 11:32:24 PM] Decrypting ciphertext signature 'dJrbp5aGHVaeYUywaV99f5Jdkallxq8Bj1aO4Vt+6OvR8qrA0RxqYDQRu80waxFq7d/NXgEy2+P9U3p8bNxEG/+TElUqehl11yxbjwscGFe31FjYNUwDrp7YA99c2QRHVWJCeeczxUkltkdy1suX3EzlV6c2RYPIfuHbU9mCFfmim6mvB2zD2r7ZQRyEj2Zc+pgaZKmkWkus5biSoPjJkX4GX0GNTEvq/tOfNQ4DmiCm0PaNmVPgpoqUeCcQibokoXbHsM2xwkMXGvUyOh6VnX0abw1VEiB49Tp/LOhibyvk0UhLXHyaoWbAezfDELmDt0clLv+LekfROcxIAEmNjP2QrN9Bcgf+Avobjad2LYQZYuzGYD7waA81+kc3whP7orvgi6vznfczkTKYeHeF1BqjlzDOF997O5xOyRhqURy0zdxc0VZRUTMoTr90+5/NHqrbzwkP63FHHAnO2RRRADNq1V5ZldOO4FKebfsRIKIQDgvSZ4nobVGWO3DJ6CAE0Yr4/0oe40BoMP+KlTnVFGndz2FmrmtFigy2/akUZAmlEMarqtZ8nBTUh0OuM6H07i4v2994Ot/owwxW1mdZ9qHW3O0BMqlPK1SYaMnqtcxe+G4H3EOISOOYyxkZBpJcqmpm81hMqvyP9ccdkPl63ClGXrL46Oekp3iXn/5bzvQ=' with primary key.
+[Debug] [15-Dec-18 11:32:24 PM] Decrypted plaintext signature '9fbed850763d671aeaef7c808106e024416df19854bf02ab3cd552f0cb5ae45f'.
+[Debug] [15-Dec-18 11:32:24 PM] Reusing previously-downloaded 'oculus-platform-runtime.zip'.
+[Debug] [15-Dec-18 11:32:47 PM] Decrypting ciphertext signature 'YnsliwLnjDZ+tNXAGnv0fiY1F9ApGCxcNBeCnb/qEKUbfBONr63bqxJx1LX2SB3kSXp9l3rTenn2DTpIZy6AtjULBivmkfETWMyz8TnEeNJTNl419GiuMSPwE7PT9baJT6JBy4hCtEnvxOwXLQo3e0B+hFjWxQK/gh87OirQz14ZZzdZ3KCsEo5nNTyJ1loCTrxF1okLd0WEKF9G/UoyWZ9Ce5vQpncn+FUPPe3AXjAu5UPVdJ/gazktr9me7eQFJNMqM0NR6jdZS8y60yysihaMpDjgYO5AsowuPuPB5QCH9mLbwpWVlPKnVT8kenR5BuyhI3rgxAYQWJhtGy99RYjjE83urIyIt6p9xUy/hS0sSLwEcA+GSRDd+gf9ZL+X/QVyt7PO0th555ovRT98UTOVxHhPE+qlbw6kLWoIntsf+QCR/Xsrd7BP2Z6l2w8N61BUU6TMKEvL679mRiPezDX+jTdfOkGv7Wx4N7prg0gq1bFwx8zU8HVC6nrSc1KhCP5reKbC6LtBdcVgHC5zikCPnZh1q1RPnhFtguMzEQ8kRKV67CwPe4zvoTpmyfMoI/al9zWW3tvKSNZj9XN5UD81HwBwZn9VTDr9nU8HU/8rCsizFwn0elcuUFFH4F3lQq5dO4XzyA+VeJGyUdlkR7ABFJ1hOQCKG2TiM8h35IQ=' with primary key.
+[Debug] [15-Dec-18 11:32:47 PM] Decrypted plaintext signature 'd523848c9022813b92b68a9c37e4346df77ee2e327e4329cf974209db8e3d6cf'.
+[Debug] [15-Dec-18 11:32:47 PM] Reusing previously-downloaded 'oculus-worlds.zip'.
+[Debug] [15-Dec-18 11:32:47 PM] Installing 'Visual C++ 2013' redistributable.
+[Debug] [15-Dec-18 11:32:48 PM] Process C:\OculusSetup-DownloadCache\visual-cpp-2013.exe exited with code 0 (success).
+[Debug] [15-Dec-18 11:32:48 PM] Installing 'Visual C++ 2013 x86' redistributable.
+[Debug] [15-Dec-18 11:32:48 PM] Process C:\OculusSetup-DownloadCache\visual-cpp-2013-x86.exe exited with code 0 (success).
+[Debug] [15-Dec-18 11:32:48 PM] Installing 'Visual C++ 2015 Update 3' redistributable.
+[Debug] [15-Dec-18 11:32:49 PM] Process C:\OculusSetup-DownloadCache\visual-cpp-2015-update-3.exe exited with code 0 (success).
+[Debug] [15-Dec-18 11:32:49 PM] Installing 'DirectX (June 2010)' redistributable.
+[Debug] [15-Dec-18 11:33:38 PM] Process C:\OculusSetup-DownloadCache\directx-june-2010-.exe exited with code 0 (success).
+[Debug] [15-Dec-18 11:33:38 PM] Installing 'Vulkan Runtime 1.0.65.1' redistributable.
+[Debug] [15-Dec-18 11:33:39 PM] Process C:\OculusSetup-DownloadCache\vulkan-runtime-1-0-65-1.exe exited with code 0 (success).
+[Debug] [15-Dec-18 11:33:39 PM] Install 'Dawn.Setup.InstallRedistributablesStep' succeeded.
+[Debug] [15-Dec-18 11:33:39 PM] Install 'Dawn.Setup.CreateLibraryServiceStep' succeeded.
+[Debug] [15-Dec-18 11:33:39 PM] Partial uninstall: False
+[Debug] [15-Dec-18 11:33:39 PM] Total files inside Oculus directory: 2 files
+[Debug] [15-Dec-18 11:33:39 PM] Filtered files inside Oculus directory: 2 files
+[Debug] [15-Dec-18 11:33:39 PM] Processing Restart Manager batch 0/1
+[Debug] [15-Dec-18 11:33:39 PM] Initial RmGetResut: 0, number: 0, reason 0
+[Debug] [15-Dec-18 11:33:39 PM] Closing session
+[Debug] [15-Dec-18 11:33:39 PM] Deleting directory '\\?\C:\Program Files\Oculus'.
+[Debug] [15-Dec-18 11:33:39 PM] Deleting directory '\\?\C:\Program Files\Oculus\Downloads'.
+[Debug] [15-Dec-18 11:33:39 PM] Deleting directory '\\?\C:\Program Files\Oculus\Manifests'.
+[Debug] [15-Dec-18 11:33:39 PM] Deleting directory '\\?\C:\Program Files\Oculus\Software'.
+[Debug] [15-Dec-18 11:33:39 PM] Install 'Dawn.Setup.CreateOculusDirectoriesStep' succeeded.
+[Debug] [15-Dec-18 11:33:39 PM] Extracting asset 'Oculus.ico'.
+[Debug] [15-Dec-18 11:33:39 PM] Install 'Dawn.Setup.ExtractLibrarianStep' succeeded.
+[Debug] [15-Dec-18 11:33:39 PM] Setting installed release channel to 'LIVE'.
+[Debug] [15-Dec-18 11:33:39 PM] Install 'Dawn.Setup.CreateRegistryKeysStep' succeeded.
+[Debug] [15-Dec-18 11:35:16 PM] Install 'Dawn.Setup.SetEnvironmentVariablesStep' succeeded.
+[Debug] [15-Dec-18 11:35:16 PM] Installing oculus-runtime.
+[Error] [15-Dec-18 11:35:17 PM] Librarian exited code 18
+[Debug] [15-Dec-18 11:35:17 PM] Install 'Dawn.Setup.InstallPackagesStep' failed.
+[Warning] [15-Dec-18 11:35:17 PM] Rolling back installation.
+[Debug] [15-Dec-18 11:35:17 PM] Uninstall 'Dawn.Setup.InstallPackagesStep' succeeded.
+[Debug] [15-Dec-18 11:36:51 PM] Uninstall 'Dawn.Setup.SetEnvironmentVariablesStep' succeeded.
+[Debug] [15-Dec-18 11:36:51 PM] Uninstall 'Dawn.Setup.CreateRegistryKeysStep' succeeded.
+[Debug] [15-Dec-18 11:36:51 PM] Uninstall 'Dawn.Setup.ExtractLibrarianStep' succeeded.
+[Debug] [15-Dec-18 11:36:51 PM] Partial uninstall: True
+[Debug] [15-Dec-18 11:36:51 PM] Total files inside Oculus directory: 11 files
+[Debug] [15-Dec-18 11:36:51 PM] Filtered files inside Oculus directory: 11 files
+[Debug] [15-Dec-18 11:36:51 PM] Processing Restart Manager batch 0/1
+[Debug] [15-Dec-18 11:36:51 PM] Initial RmGetResut: 0, number: 0, reason 0
+[Debug] [15-Dec-18 11:36:51 PM] Closing session
+[Debug] [15-Dec-18 11:36:51 PM] Deleting directory '\\?\C:\Program Files\Oculus\Support'.
+[Debug] [15-Dec-18 11:36:51 PM] Deleting directory '\\?\C:\Program Files\Oculus\Support\oculus-librarian'.
+[Debug] [15-Dec-18 11:36:51 PM] Uninstall 'Dawn.Setup.CreateOculusDirectoriesStep' succeeded.
+[Debug] [15-Dec-18 11:36:51 PM] Uninstall 'Dawn.Setup.CreateLibraryServiceStep' succeeded.
+[Debug] [15-Dec-18 11:36:51 PM] Uninstall 'Dawn.Setup.InstallRedistributablesStep' succeeded.
+[Debug] [15-Dec-18 11:37:13 PM] Removing working directory.
+[Warning] [15-Dec-18 11:37:13 PM] Exception deleting 'C:\Users\samdi\AppData\Local\Temp\OculusSetup-d3357b24-7203-4058-b96d-8081ed1f737c':
+System.UnauthorizedAccessException: Access to the path 'DaybreakNative.dll' is denied.
+   at System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound, WIN32_FIND_DATA& data)
+   at System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   at Dawn.Mixins.ReallyDeleteDirectory(String path)
+[Debug] [15-Dec-18 11:37:13 PM] Scheduling delete of 'C:\Users\samdi\AppData\Local\Temp\OculusSetup-d3357b24-7203-4058-b96d-8081ed1f737c' on next reboot.
+[Debug] [15-Dec-18 11:37:13 PM] Exiting with code 1.
+
+
+[Debug] [15-Dec-18 11:42:39 PM] Starting up OculusSetup v1.16.0.0.
+[Debug] [15-Dec-18 11:42:40 PM] Command-line arguments:  []
+[Debug] [15-Dec-18 11:42:40 PM] Setting locale to 'en_US'.
+[Debug] [15-Dec-18 11:42:40 PM] Setup action:  Install.
+[Debug] [15-Dec-18 11:42:40 PM] Created secure temp directory at 'C:\Users\samdi\AppData\Local\Temp\OculusSetup-36d3a333-55d2-45db-8d47-f17859be2d1e'.
+[Debug] [15-Dec-18 11:42:40 PM] Extracting asset 'libeay32.dll'.
+[Debug] [15-Dec-18 11:42:40 PM] Extracting asset 'ssleay32.dll'.
+[Debug] [15-Dec-18 11:42:40 PM] Extracting asset 'DaybreakNative.dll'.
+[Debug] [15-Dec-18 11:42:40 PM] Extracting asset 'OafIpc.dll'.
+[Debug] [15-Dec-18 11:42:41 PM] Found candidate install locations:  [C:\, D:\]
+[Debug] [15-Dec-18 11:42:41 PM] Selecting install location 'C:\Program Files\Oculus\'.
+[Debug] [15-Dec-18 11:42:41 PM] Free space at install location: 56532246528
+[Warning] [15-Dec-18 11:42:41 PM] Selected install location has less than 120000000000 bytes free
+[Debug] [15-Dec-18 11:42:41 PM] Found candidate install locations:  [D:\]
+[Debug] [15-Dec-18 11:42:41 PM] Finished network-blocked initialisation.
+[Debug] [15-Dec-18 11:42:45 PM] Initialising Analytics.
+[Debug] [15-Dec-18 11:42:45 PM] Querying machine metadata.
+[Debug] [15-Dec-18 11:42:45 PM] Anti-virus found: Windows Defender(397568, Enabled, Up-to-date)
+[Debug] [15-Dec-18 11:42:46 PM] Starting preflight checks.
+[Debug] [15-Dec-18 11:42:46 PM] RunCheck 'Dawn.Preflight.ConfigInitialisedCheck' succeeded.
+[Debug] [15-Dec-18 11:42:46 PM] RunCheck 'Dawn.Preflight.ConfigGestaltCheck' succeeded.
+[Debug] [15-Dec-18 11:42:46 PM] RunCheck 'Dawn.Preflight.CpuArchitectureCheck' succeeded.
+[Debug] [15-Dec-18 11:42:46 PM] RunCheck 'Dawn.Preflight.OsVersionCheck' succeeded.
+[Debug] [15-Dec-18 11:42:46 PM] RunCheck 'Dawn.Preflight.HotfixCheck' succeeded.
+[Debug] [15-Dec-18 11:42:46 PM] RunCheck 'Dawn.Preflight.InstallLocationCheck' succeeded.
+[Debug] [15-Dec-18 11:42:46 PM] RunCheck 'Dawn.Preflight.RuntimeInstalledCheck' succeeded.
+[Debug] [15-Dec-18 11:42:46 PM] RunCheck 'Dawn.Preflight.RebootScheduledCheck' succeeded.
+[Debug] [15-Dec-18 11:42:46 PM] All preflight checks passed.
+[Debug] [15-Dec-18 11:43:37 PM] Created secure temp directory at 'C:\OculusSetup-DownloadCache'.
+[Debug] [15-Dec-18 11:43:37 PM] Downloading 'teaser.wmv'.
+[Debug] [15-Dec-18 11:43:38 PM] Decrypting ciphertext signature 'QD5oztGtUgPF9tt5Lb/W6v3yyC40r3rfH23i7KNAAyoMbdkrjijEae3fdWvVO8W/jOLl2s9rMopJx4pX4prCzBTTzhF2EOJVKrDwu0wQOn6peYrohfOrvPXdAUzE2IctncAtnTwfGcJ9muQk7Lt/TqUHc06tf5cIgqulb4S10QQcdmNPBiaKyvbtJnZ1nDevtmQeU/aQxygDIdSdTkwYNpd2nspkwd0wpHMk83IhBpMtzQkhzOMGzB9h27qoLdQgUTBnSSXzH9exStIMlq7nsI1mozRCmEH9AgcytTVjj4hypPhxxH9aZRcSijNCf8mNaZCsn45AsM004XGr+szIUmZh+rvSbWEb9mbHaihePzhgxKem2Dm9ghZItvhd+aQSNpW7lVwwcl92RMD0wAZGs9EgHD98Tmu6NwLCNGqprqxDdiSZbsBPjHdDI1UpbE75hwAujyar/Jm2SgpTqWmbBS53uydguhqqFFkbhGQbGhlMVyAjiy30Olu2JhnEtQ6hu+ieVoXHDvHXC3l6/XGAy/1J+5xppXDuH4VleJ5P9DMuCWNpMpjCodXmxbE0YWGYh3rmBqfmdvpbOpBxOiFVSRNvwexNPntPUtjNZCmkCJ/84Dh6rURNPsBi2yk0DDn1ViO+RLhm7gZyHZMmqu7hqd3LzVvHfYnn9H3UQpIuLZA=' with primary key.
+[Debug] [15-Dec-18 11:43:38 PM] Decrypted plaintext signature 'f49cfe8be5173a61858bb6fed69e0bc0b27e00e44bf18f17ef9b29114fad5584'.
+[Debug] [15-Dec-18 11:43:38 PM] Downloading 'visual-cpp-2013.exe'.
+[Debug] [15-Dec-18 11:43:39 PM] Decrypting ciphertext signature 'eb8LVfGGf9rXH8TFT4Hr6cPdoFQVPw/Abpf2fntbtDGaj/IsQNbsvJkBPgySXkCxJCRIC2yx56fDsM4jp0I/yzNY3Bf8p3N1L3WqlQpUt4+3A/ukdkj+PLMhXPtOxNeUwxPcYl0YE8AJNpNC96EFB6n+ZNu+CUjyHgSy9CtAAJ5+BzylLiXVCXJMS99KkkViIcu9wnXukZ2Wjo+I/bI3Q/iYe3ziwIqupuaAbCfT6wK4IDjsdAshZcs1Z4iwPt3zfXMSBibIGovvKN72ov2nKaL82Emr4ioILtZXKeS0YOj4ocdzxa0CVCrZHmGuapy9obd+D0F2/7ei9f0ozz+GllIcL7cwM/wFuToCfqf0aBxaj2ochK0q3LPv5Mc2J3z151NgQe8EupkfIQMjSNpQuf8KjnctCORmntGHzX8lh2Hkdd2L78GSYvVboyyOqnqvUXjBkOm68ceXhdiC2G/k8p7OL4l6P4Gx98GTCFXjvaEpJuf3NfuakQqKBHGd9kRVtn+TTCZnUAqlXz/r/sW/4Nx+vUmU3A4ILW84JIVo7XkqGFeFSG7rBDB7tpwPSPE5taYJIy4L4E0a8RokLQxAaaeZo7j1Kot4cd4N8gxXcSH/Cr3bPTTBvv2z08+VD/kkxByOQX1DfpUHEAQcnRTENKV1M7+STYJYf/J9zGI+xTU=' with primary key.
+[Debug] [15-Dec-18 11:43:39 PM] Decrypted plaintext signature 'e554425243e3e8ca1cd5fe550db41e6fa58a007c74fad400274b128452f38fb8'.
+[Debug] [15-Dec-18 11:43:39 PM] Downloading 'visual-cpp-2013-x86.exe'.
+[Debug] [15-Dec-18 11:43:39 PM] Decrypting ciphertext signature 'UVGV4fJCDt9KeWj4myASa23odLHTUI2FUwWKk4i/3kucyki08wgel+m6mqqho+YdX6cDUakmFT7VyTw5Pi1hN0F5uz7E8vwWkTyXAJ0qTnt1b2EdgYBSm8nUxQIUja8v1s8d3xB4tE1YJFLWZZ2CWsrExcaNdj/LWdVfawS5vnLvmGkmivbBFKmd8JKeGtUI0IHhaMVbeWzWBR3ReQ6NnujysVq9dh+3zdbsHTcq8qaHemPhNKNCQj98mW6cRhHEKI1NYSg5EkV7ditpPsHQg5++o44H39pgWArZJytxYpDuIewjWR+SDcocXOD4gdHcMbbsRlgsY/XPGDjxV9noPeRXKgmhbH+aPxbVJCl04B5P9IIWtKS/763qBGvI8SdsAaTZM8kEa/F1LtSdBGeANqzpwdy5Z+mkrKDtAyP15ZIL4X/azPfnQvd21TFNFCn7Q4XJCfzcsrnn3MfgG7cwFqVpW7EyDsLWCZcCkD9kujEq5GRCjSHRl3Y9pa6lAFhBAuWZEWlHWYG+LHR3OGpauRCgbFPviql1NCDjN70LBJQPnP+pYb1ikbtZn6ba+o70MLRgoIX1fYwBeuZK8dqkGqocAxNFKKuDiLA/SY5qOkKMCvr3efz/0IeaQsKn/sffXX0cAKvUKiwL21G5weE6uo2hS//3XbxL0+8uKDEBhx4=' with primary key.
+[Debug] [15-Dec-18 11:43:39 PM] Decrypted plaintext signature 'a22895e55b26202eae166838edbe2ea6aad00d7ea600c11f8a31ede5cbce2048'.
+[Debug] [15-Dec-18 11:43:39 PM] Downloading 'visual-cpp-2015-update-3.exe'.
+[Debug] [15-Dec-18 11:43:41 PM] Decrypting ciphertext signature 'VLNXZz+0CyO+9vh4lxGfw1Eix47DuP+hBATNT3B124UzG++n0zV+d3LCV4jJeHUr1NTtRT7BVOb7P54WeDRslfOfoa96+GP7FUnXW+e5gaXtgBU0CiMfg3moFJrlQfT8IRG8jW2TenPQmUnYA5nhD7ksh6W0rMKx6Fy54SLm+a1EKHlIuyqmo4RYwWBIaN5PlVZwJiosSfQKfNQw8LUQzoRuNTItvTN58vCZqpQoerGDHN23f0SR09I3zsrQRJ+T6cNqfUowNFeqOdOB0k0wdH6SyQVJVs2aWBXm+WpfMrzvizne4AkK3Xn1UVZiFwuPRc0Aae3lW5Rgb9lTXjm5pNRNp2ROtdL4x9qYwqn4Fp3Hc3XI5cuq8LY/D7SsZNLF/LuBQikK9h730IWHyugVvwKrmwTPIg8j96ZUQj6kgcTyiBQailZoqnM8T/pJ0RHWzARldqopIWl8yO4sBZUCgYRJDsAeHZWkkXeeI6LD+BeXoIKmT/6bk4AisVcA7PGOcn2PlMivxKZf138zQoECsCsVsC3tQUuybMTtE7YS0oLJHQxBuQ/aIEVDmRMT73WSAK7y+tQzqupyWQ4LE3MDzz08zy0cVPBm3UHTYIOjspXyD8AqVl+OYUrWv8GO02QEeZokXUzRTkczs1pZ+MTQVDMGtiN1oxkl7m4EyCabGKs=' with primary key.
+[Debug] [15-Dec-18 11:43:41 PM] Decrypted plaintext signature '093b3a58b33df132d12825726e03d7f43b3eab72886be00f79f529f1948e5d16'.
+[Debug] [15-Dec-18 11:43:41 PM] Downloading 'directx-june-2010-.exe'.
+[Debug] [15-Dec-18 11:43:50 PM] Decrypting ciphertext signature 'R/dRoXmkep3zLWazJwpegAiUt0kply1efHgaLz/1G8gxYaCmbTGJ0czN1meCb2y7yuGk63Ng/vKGYQYlIax8SpAZvpYpTIQNIW4GjVVbV4EiWsZ3Ulzn+Vnj3oVJBp+pl2zyqnZElF5BoQpX8GoRMnGBPaHfdJpo8znv5JZFkbVjwAjuMy1HsLiNRDiH6w5kLjtty9ccBsFTy7sbcyDfT+boh7SX8DqtL0cdZRGxwe+4312cjO+RlcajnJy2TefFz/5ID9eiAV9gPyaJdfJgMjO+4amDA+UxbolsJ8bCdNbx6qlS4KO5WLgDCqxLETtdyDRfxR/eV5hBs1kV8F+Kw5nyPMR9ey9L7oicEeV3hkx/4+zgifTu0wT0PDxzoxRbJ6ynegpJqdmLa1HSbg/onPmSUh9Qgq2OSp20NLWEHLzFtw7FFTGK7MUHZSNKwftL0dqSiVlFZITZetHOHyxhgfuDYkRaa6c125NKzfl4HzyPBG5UIDyZ8+0bD59GN2JYaQL+nhhW0jHurPHFao4QpEY7uIV7jIBfmOZJZgXDDOb51zHcApCVPneMLoJyCmRpDW0Q493UvrpNjSkLhLWdlW/PUBV9OgiiC4X56dpDLl9mhXZLzQFH8ZTnlulcJREsQZiovHNb2lZXJhg8bJ0xfVdPhezNgMAFpj8J3N1hc6s=' with primary key.
+[Debug] [15-Dec-18 11:43:50 PM] Decrypted plaintext signature 'fbddf27f5477c0823c5b6474690785c8ab458ad47d914e2340339dd32495621f'.
+[Debug] [15-Dec-18 11:43:50 PM] Downloading 'vulkan-runtime-1-0-65-1.exe'.
+[Debug] [15-Dec-18 11:43:51 PM] Decrypting ciphertext signature 'f9iIbpEWSpNcMxQFQw1tvqw9F3iF+tXa2Ef9FWrvm1Xbj4mYy6Lm2BT/6VVCv3cvNvD27zpbLok+FGk9j/OcJuBzSe1fB3B5ucFRDpc2Dd/uuxH/mv+GsO0pnybR0qBVdXI+7TwgzAngJl8EufKLnq2yObWxVsa7fGXGPQUNV1t6KyfNlrcF0fqDaGIotPvn13FUx4aFuroVlH7Cx5DnnPezp6xYSiJR1sdpWmsa0cK9EgtHanqpRLRcEtkBO9/YEEc3k6InYvpsnPhaxWrjOdY6utO8t+gZaJwuPqsdgZCMFJ83sbYhZGwvdKWWaPKicoAo6ZWRhhKro+p0CZmaW7wxb7MAe8bVHTFIi3Ug1ByWESL/1LfQGEn9VabFt8eNEo6PFdoC6Iz75/LgUD3XSLQYvWER9AAoI9tY+skSaOKf1iWsBRtPcMcRYp4O1x3MVrp4emDyM0YrAntWHtCxrdMc7ccwqxjzeb8Squ+1bHvyFSkzt0zv5eMXhJBv2HNp8xFpQMeiaZrFeWc6mU8+K+vvOvBbY4PC5nq6vden9dfKae0qCZNqKot5xgUiovhKUpMmWA2QPWZmAdzKuXpT3h8d27ScTYcgic5L3V1oYdQQ1Vqim0cpE5pT88BWDNkKDoUvbZFyXRm8vH+42QDi9NU9l7tkCndFCd+3dXLxxqs=' with primary key.
+[Debug] [15-Dec-18 11:43:51 PM] Decrypted plaintext signature 'df9c559ad77ee21a38aae79a35d4e199f0eb8e6c4de78b37e849a95560f504ba'.
+[Debug] [15-Dec-18 11:43:51 PM] Downloading 'oculus-librarian.zip'.
+[Debug] [15-Dec-18 11:43:51 PM] Decrypting ciphertext signature 'nxw3C3TLTcAz6ybp7u/BWKV98dqCalnvBiDPttCAoFLBUhQh8oq1m5GKU+s9LyW2kF8rSuK+uGiHqGAfhm5/5ySwFD3Y7xIDGdhBfBRx6hz0qxuwgC5FTpcz7YQwYBFpw8ge0UVvsxicGGQUbQ1b8uVgvVZL5PKMjAsmKren9sYVywp/ynP+mfVyB6yvC+GWq461LiGmE8cLTB/4KyI+X/28tiuGzlUnP30Ie5DkfKmKNKUWJNtlwabJ2J93t7LonSyEdXHluh41ZZfSZGicIloQFMMjSXFLF6aVq4F+1nIdvZ/DOp+RasioU6DGZxaCjfOVGmWl4hnXhMh1tIQN5Eps5Z3Bsbb/3o+eaPJLYbupZzg3DicA8pjv1gdpVCw3GFNy27vRrfiu5Ir/e4jOkdGhRramMQcE328jpbzY50bBuHBfvQij1WJQMcVxcAQrqpNP8srOt7r6SzYNZGQF7XTwd8ELEogvJcEYEV3y4bWoahXMarop8jSb0GVW05TJN3Bp5z4bpvAa0CJsGNnyUhxp4Pz2N9ax4D8gys7PnDM3c8B0sGVCVwIVRGZ5E+w3iILDPWbtt2HOIik4gYCN8jm2aH16xcBrc+FtnkW/LiAM9gAPJ+PpvnKaMAVFUlvbZus2GdSB/lkKLl0mqMJVRfGkh31wPKzA+OIjvMPSip8=' with primary key.
+[Debug] [15-Dec-18 11:43:51 PM] Decrypted plaintext signature '5d621bb32df6dafbfabcd28d64d6b1a84b3b20b15b27fe851a4aa38b4efea7a9'.
+[Debug] [15-Dec-18 11:43:51 PM] Downloading 'oculus-runtime.zip'.
+[Debug] [15-Dec-18 11:43:55 PM] Decrypting ciphertext signature 'G9RXoY7bzOUmdS0eHXSpQ0Zw5vJQnaTn60G+b1rlrRd9AXFhbZR6gZlL7NyXCuGPjfrNg/mT0h0UgGyoZqfw8ewB2LLK147ZDqx4oJpHVHrvGotFe3KLQ3M8EI81HAyttdB6+5aEVD6aitz++zOfZkH2FUWMp6mQqvBupUAUz33KCezS1Mwou/P6k5LOhpgv7zAdALhKzHguqmAyWQ68iP9wNhIE4+zQwXcuj4J/ZOUtboY51qOiLf218Vo4VfloeywRTyRZKVegxF8WPIzAiLLBvcL9tdP6COYliebasm0Ts3lvjTj0j23H/ToafWzqKqLruNOKFegvKoEwDLYB9T/fpljOiiUoKcVg/RUWJDFu9wPHbhGIgW08Q6nl2vzZVVLfigpqKEXBLT4mZl00cOpUbeV2Eo0orHvt51sdSVq+OyNz0WmejzsKswIpHI7EaGqX0zVTFOsmRtx+j/WdNVAj57hL/llvugXc0GxeTKb1jukk8MGozvQwjyhIjpRFAkk6nf1c7HVpuE218GG7GJ8KeoEt0qDrG98wi7+8dFRHlxvX//XqKTkVNEVwHsMyk+g8AtkFh5DBCn7VyA9tDGTy0v0t8lr8H9FlbRpJA02uI7XT7AQQN0jPN+9G6YVuieNGu6EMnsSxSrOPx5iSFHrMi7Vd7mcS3HHKi43QaE4=' with primary key.
+[Debug] [15-Dec-18 11:43:55 PM] Decrypted plaintext signature '2e5296912418ccb12d25d173c29f5e4f8cfb2f4a2f5308df939b9e322a17f76e'.
+[Debug] [15-Dec-18 11:43:55 PM] Downloading 'oculus-drivers.zip'.
+[Debug] [15-Dec-18 11:43:56 PM] Decrypting ciphertext signature 'ASon3w0abPIIqnFv5oOo2usc23v1ba+NCdinM6LSnwjQQfYu5f+59yKFeNkvaBiGY39Ndk94cm2pT2WhYYbn5z9m3tHwpnjS+l/h67ooY9BnpdsF1kcdOu5JBWrECBqhlBoPgvJdr55al8rIdd4ct/Ec/kJH2kr08GoTKjqOGf+IeI/bHGr0J4iquJVeHdJm7IT5z21ABxcXjMei0Yi2ODAQJB8vSdh8orwMg10ch0vp3mTkrRh+sID/kaFnEuDF9ZYn8+QRtwWTRSfgyBhoG6GX2g8zS9uJQ1vxSsOUPqvZILizBatZ4ZOtI5dEu4P+UpgmMnp6yXUmBexdUuRNeqeXjhwmmXljbJNC5bchtuDc/PgIK5TvT/VC1S7xwhZPV/AyH6MmEIcEwV6SzErwZ+7SZxPZS2cNNHlaQ2RkVNSnrOStfL8TBBj4tzNMXr2N7e/PLmRxnsyBuX4STNNJnlI2RcpXJ4Q9B1Yd/3jx/ZOzscXGWOvT6XBzx7pqeISNLGFtEERIstTjeM2ndbkh43Npj7+/P4yuSzJaju7Y0hoQmFKZaJYtAFKR4l+UeFXO2rMgvbeDHSwIb/cunwqWZJp/tT12Obq6jIPj+9wfqmIjbweQO+vQILWJHCAZie6MtK2Q3zWyJEZSe6ucYPV1ux04J4puS5amkykW3p5dkEw=' with primary key.
+[Debug] [15-Dec-18 11:43:56 PM] Decrypted plaintext signature '5b8b86de78d188f861a41724bdc8b9c3cb50cddb0b96cd16311b5dd0dafb02d3'.
+[Debug] [15-Dec-18 11:43:56 PM] Downloading 'oculus-compat.zip'.
+[Debug] [15-Dec-18 11:43:57 PM] Decrypting ciphertext signature 'qrjo8gAb+hL0XKviEL/fks6ZlQK0LjDXHF92wNBShQIS9ImCJNGfG25Ai/TvPfW9zeA57jrSt7VijmsG8RTuwxp/FTFIwG1OnhgQhQJMH+aFACZPiiKNxJaxOGpd35nD7WxfDLMFnA+4kTy9IPLzeXXG91432gIlZmAKliRGXPJt5qv+Zkh6ayqbz6IPUySeFHa9MqRVr6xlUZDBtM4MIEUhX3LBiIxIcU8Xo8WR5Yao2Os5tA+hGtPpGiP8Bl/JdJsHpKsJ8Ht4c6XZgxEoVCiYkAUHqKrZiNjAt5WjEvnl48u9X7KUiO+zbYk6/IvXyNrSg1dAZETZ8wVbGciQaKHCQGjEaZ/445gBeM3/e4iy9tJkcMYFthkGumOxa8DeLt6uaDxAW77H2eFM4PG+Jd35AFnnhpVvWx40KYw0wfCpZZgg0+Lq8CgQ0Of4RQZFJhTfOnaAphSINsFlHKZkqDYVRXDjdJ/ZD+eOk33837lCZ/H/Epqe4X12UQrN2I5CCtJ/CeJi+w9dNWJ14d6ilp2rMpTb7T+Do8u88c94HlkoWGHYsMUIlY1MOhuzgO4yWu+k3zqB7u5VxAzXXEI9LWDIMdlF9bGe5rfWQvQx7LXOFofiEEoEXsoyi+tzrdY4hpgdLBpamK2HJ/rmIWQcNpGoXXRSrAtlhHx0YdGBtIE=' with primary key.
+[Debug] [15-Dec-18 11:43:57 PM] Decrypted plaintext signature '834fc2f7a1dbb8cc817dfc36a4d1d8c071116c75efd3103c87bae38431499e71'.
+[Debug] [15-Dec-18 11:43:57 PM] Downloading 'oculus-client.zip'.
+[Debug] [15-Dec-18 11:44:09 PM] Decrypting ciphertext signature 'PvEYowGTpJilc3L1n2PfVOa4DFstReN/7UC5tQXGX9eALD5MR2FJH2yR/jDM9kf3NqyvDSMtEMKERSFp+ADWtsco5C+CfbRU7cOYsVI1EXR0N/LF97d4v7FpOR4p5laIs3pJVT0ofJzyQHsGj0fWYGwcnakq3FvPONynQIsKfPhyFrHRdEFqaQcLAmtVfULN1qQec7Gtdcc20yPhIkiL1Bh60VLZHl0vGNE4yP678+VR2yXbA++uWERq403gYUgrOz5t5mWdcvMNZpyP0w/teyBYuVhB6rzMMOHYB7RdByJ2HU7/TjYNI6/UPAHzDjFZS8AQl0HGqME/NV8rhnBDcD9ZjXQIsiYg2e7D0fqKKOGsHpjAtWwLIicAD0wMwoUYvwxW97H1dO8AxW9RhPbNAXW+i8YTX2rsw+cBfgec3yYo2RwwBjDVlwcbe+wRrRAKCAWmzWWew9he7V2+7Ul2AH2QSYxusodonrtXQG3JP/p1rgjB5Tglw6fLnGdwajiGESANTJQBr5WEDjRTxStqyplyQCbFgmDizYywcDHqvIj3hmLV6WaDgkmpjEdfOulTd8jJJspu9IFrpCSHR67U4XlaZrNLq3ZJz2m7pRtiZYJWCcT/hQjc4zxKIPfxdHasef+U8M0zVeqMTt2imF61jNQ7muU7QTM7URxqc5tKYio=' with primary key.
+[Debug] [15-Dec-18 11:44:09 PM] Decrypted plaintext signature '27b2f12af6ead7ceffa0a20f4d70e30b20659b8eb4664b15f60518010f3c65d7'.
+[Debug] [15-Dec-18 11:44:09 PM] Downloading 'oculus-home.zip'.
+[Debug] [15-Dec-18 11:44:09 PM] Decrypting ciphertext signature 'qa+zst63S0oc33j5fnARwzdTl0YlPSuSPpgR3GbiI0Pf9Y+YDZXztPXbepfbBqKEpnjGOgoRh0ZNjdbVZgoVHt8yAhbWz4TJiqAIJ96xy5CO0HZc2bNfthlgWo1EYOWO8LGFnZNMTrQPbxP4VjaS+j0TIf+iYziox7O9Hj+woyGmc+FrlDivvwKuGPO1vrOQMmSWLog3UHvIkSkOQJsyXdnHhq2b86HYW6bQuzGGMRVvaQorlouED8wbLBptANv2/xg03+LKEFWYdXXcNchMCqcV5KJOaa/newTnk724FJHsH7SPDWDrEROe/VSQBdFErWvb7vSs+zbF90aQzvUzze5Zy7syKEHCpKXsbm9csX7BiCbMy76j4g5rVf/crN4srIGahiFcukkYviMM03fE7U/qKWKiQn59SVFiA5Wh/2YthIPQYkHTEpmQe7rAKZMXUxifJVWVZy0YLoO02yxe1bkzWYoT9AYEIO5Ek9tsrx7roIZYqGMjj3WvE/Kg2GOsqyrhGYnrvX7MJwRvm7i7iC34O8iK8RvvOfUcHf810N1L+1ArLv9gI5XvBeiLL5u7r2eFfkQ7Z4jrMFCf2Fi2ZgYAP6OKfs5tCp3EjDiHY5NG8GY58U4i+R7QubziZ2oj5FmcJ0O+6iSPca7IZYtdGXW68dqVJnhr9FQ7jVog7v0=' with primary key.
+[Debug] [15-Dec-18 11:44:09 PM] Decrypted plaintext signature '07aa14962db08663bed0e8613900654ea2ac5bba47ca3ca3ae565da7f31e9788'.
+[Debug] [15-Dec-18 11:44:09 PM] Downloading 'oculus-redistributable-installer.zip'.
+[Debug] [15-Dec-18 11:44:10 PM] Decrypting ciphertext signature 'G14Uycbrzq6yD0Nbdwrs+ANZ7uuQ0yyx5GzVm8IHuvdyjQRst5FbIU81uIBI3PNw70qFc5s8G8f1Go0NBB1nO6fsOzFHJNqJI5NA9WpfjmFjKWA1IwRMhkHEh/NyYmRvUngqNKBmYkMFW19Dy/xwDQG5GHDcC2kJsa8kZtdDkgSjrOC66J8A1WxNsF/imhdbdK8aTpfTYnLXjFRZwaxVmvSGEQOLtlc0y2+EeAe86aooOgy7NCYdViKzrGoHhCWOP92dSWURICIvzk+HGtfHbQZicD24cXpcn7Hrc06PQ785spycoBxBzP7XdpvLtzupUHMd8P/U+4dBfyJnVvc6qAgn80x8fS7OKwR4BZGAP14JqpFLLXGlgImNfKkgJzwReJwfwjQld5eZyaa2v1H6yXt3kLZ/tixCfD7zjYFw0yxxqwRIw/lheeW1THuTFerd0bFsLz3XML8cHrj+U/6ZUo323AzfRKDbYoh7gGoHYy9bWX7qLajqwCp5B/Fm1PTVwKssMdJfrC+AOzqgwhGjNOo2gWkYymOecl5MStA+sGY6MQy/dAt7NIS8kmk6p0csJpVncZZWDl888GwKEF4bs8XqXlm1OresJgUhTM+U1J2MKog073e+FQ7WefuPB98WJC4pp2eScYwsUG2pHBhzrbUkH9EhyjLT6Gyq3SwFOck=' with primary key.
+[Debug] [15-Dec-18 11:44:10 PM] Decrypted plaintext signature '3d363bc043036fa313238bcfb07e4fecb6f6053f394e79d3e0a82eb0032b038a'.
+[Debug] [15-Dec-18 11:44:10 PM] Downloading 'oculus-diagnostics.zip'.
+[Debug] [15-Dec-18 11:44:12 PM] Decrypting ciphertext signature 'GhnCHesShW/u3iumiD/Ka4V1awBq0X6PLLJMSM+07CifLo+jpnb679u40SRL5DjdJmu2xSgITlkBhSPKf+3BgoV+O3f3fu7klNPYe5Y+uhOh/YTgP+oLvhrKqPYcaDD9HUNQdOXJioeJGsp5q/nntzgcR3aVWbU8jn0k2sQrZ5yPSD0EwCYo3Evx6bfRFHEJd4lnFJGtvsKJSg8aE161wQxh73VcwcXWTRSDZrttSWHBhYLd+e6uNI5mEASfi3dlOyZtekIyWiJXSIPeD83+Hh684CxybTp3YaEVSQdFDvWT6pGikFEFOnLoH8vEl3yX4xl/GILuNwxfGo/tzNq7a3aIc8iPaEmbfGG8Rt02OXNa5BojWbXDVFHa4LDKIj9QesOfg5jaV7mXxI/o1dWhYkoraHdMFOKeRuB6NKQftp9zf91ugeCiqoEP5JQvgeomSoxii/zF5yRITlUtJqU1VgXgVVvC5ZR/aVLMlkyOmqTCp3vo3vJGLfYeVHNgh16AbGR5Gmv3uxaMOwaqC51wZkrC7ucjsGFj3GCeGPD1EORrLJzwPm1EvQ+6Z0ZCrogndNBXL04NGgv6rEfhLyqjhdKaMIyAKon4ufTfoHfOqilrRWmJq3bJZJDIx5w0Kxh9PFjInhie0AXZVSARtmeP8fJY6M1NTyMHaEp2Q2CNrKY=' with primary key.
+[Debug] [15-Dec-18 11:44:12 PM] Decrypted plaintext signature '1acd07cb6589d715856ed4552c42c96c2f876285e8a83ab64ecd3c50c048597a'.
+[Debug] [15-Dec-18 11:44:12 PM] Downloading 'oculus-overlays.zip'.
+[Debug] [15-Dec-18 11:44:13 PM] Decrypting ciphertext signature 'Mg3zN8ySya28fii31wRvthCip/fsSxQyEiSww0zwZ+rWeJSFn/KsK6aEu9xXTVWnG2pi9MDTHI+yxUvxGOyUi52pONiKJJWNEP9kmZ9Og8fGZFDQOW9k1Q4TXYoKWjlybI2u+GB52AhbkT9WdICV+4GobdhcT1s7O3O071v5w9dROIufZRQLxB01yqPnBBQ8L6qo2Glb+dl1/xxZtPOwSJjAkqJpKtSjJC8q50aFzlQW6KuEyDN6L2nqiUj/MOeV853E+a+3c7hPbsmK3ZcVQ/IhnTdNyLyWpVkxK++fM8uzU6HzYTrsTjio/I6bdLeHAdCUrGF3w7doVHJ3XDiyhSA55Xjye3zdchOg67u8LDhpQhN+YvzBvnT8j/9Xt7VlCGXaZC1q40v/IV60cCJUjOVquVb9FlSSskRrrPUl8r4UsIN/tm56NROpJUPWCeKZT5E6FWlH7l5sGCjbWvgLCM9BDCGcRO31TLGVJVkZYYGB1K5swaEF/IbGmaf+UBBaPTQTxmqJ5Acls9n8lg21PS0PMxTmKyUaZGv35FCblISxIe0tMFCTpWC4civec+UhunuXrZnMMlEUV0XtFRXzOXkdM1uaMlkMePTRv8ChL4J4Hkeh7edDQkYlUjrpKNt99nlkMdLy01IfSNCR7T/+K2wz8TfOvCFA8G6pT358IIQ=' with primary key.
+[Debug] [15-Dec-18 11:44:13 PM] Decrypted plaintext signature '9091023e1151b075ca1d7a3c53976fdb5ca82d3a8ffb4bd190af6e2baf3f6747'.
+[Debug] [15-Dec-18 11:44:13 PM] Downloading 'oculus-dreamdeck-nux.zip'.
+[Debug] [15-Dec-18 11:45:08 PM] Decrypting ciphertext signature 'C3ltorK6x1xn+zjteNNQ3EmStbJfu9aXrRh6WPk26Hz8ck0ARb8DprnSTHtrLGGC3GwoEWDqgCu6rxCVgjIAMAJcNBt6qNpCdKwEmmEnrn/NOvgRGUam/34l9C74O8SrO+vD82hx3Hg2ImpTa4CWhQU0pDOKxEXM6hCmtsLeIpdp0gFi38EPL6MEOaLPwzZQ7ggLenv5+gzlCcUqptibOpklc2KUh6HMcE29z42zKUR5V8C5viC9FyMaN8Sd+qIsEhCv6dmwEyRtpEGawiJFuTJqkVVFws1LA1zsL0c9Jjtv7kxeaCusWMYOUFsGk0Mj9hZTaDvIp48PPCHVRBwbBUfOHb9S0Br9lD0Vw7epccW/qe6uBWjGMMEmbvWUavE5LapAmF6aj/W2M9WRvG+MG12IhU3KtD0cSmbwtNm/k+GDsv8GXyK3u86VOYRZHo0mCXMZr9l9VQGag0a8cKnDvXJJ6TziGs3HKwY+ujZH9bOJjpLaV506/R/O9QgkN6k/D3x2fifvPVL0o3ThVu2aoQjpvzh8h7dNJqlJSbKyvKxkKvj0VEEf91rWponJftTJ0q3aS2Aj3nUKFw9f/MvmZHNtTMepRAqFOtUPKQy0w0m+SWJPKMrheBrJYYZHmwP2AqxKjflC4K7KRj/3Q8i6nAkEkN4ag4201CyU1mo+xBU=' with primary key.
+[Debug] [15-Dec-18 11:45:08 PM] Decrypted plaintext signature '547c0c03730d6fb99eb90fb569e08c7ea9ffb660d27b539f84cd94559c59c621'.
+[Debug] [15-Dec-18 11:45:08 PM] Downloading 'oculus-touch-tutorial.zip'.
+[Debug] [15-Dec-18 11:45:58 PM] Decrypting ciphertext signature 'Ll/ImJroDJoJ78WVrqCfkgRadX0aCHn5o4lkKl7YrYsU/bAsQa6YBQ01OiWtluAiqA4yrJz5Oae/jspHiB+ZSX4oNYh5RE4h4EiNboICAgtIxOIa3OKj3qYxaMP8LPizk7lwQwJxLVXPtcVwA8VXDjC4GYNfu0hzaepfm5suzXe5VYxTBmXhMdC96GP2JqMtmZkcmyPhc9kdXX3Sj/XVpfhzNZFCDvsMKI4blLxwo70DnN7PRrPOCZneIVxJXlQNHf3Vt4MCOqMamsM2GYoXSylbAEiXQyr/gxuYX8VAfjcpblHZs51UPrLANovDfoi+o7D7BQadVLUkf/Mki82DnOkRQEu1jyjKhtIhxwuVAmQHHutxQGJZal7AX6BGnu5diTRYCk7e+CaLIaA6FxB11rhQLHo8WuRtPTLPjHle9/ksFb7/mRXOKRrNkwE/zC+Hv+kVliw1cVu89gIkc8G09rfl6/pSCz6bIlUMeZb6gOv3eLKMcelQmS/zGaExYCZW7fpxSVf/hF4z1rOSk03I52+7qAddmVZ9Tox6GoHVosckKMfkIPR2hoN7Jl0WdRdUIFrH5veSZOMt0Rs+qbWIhAfWiIgrP4GLmWvqxhx6jpukzdJV6mrr7nY79QYESdkvzALgx8UlOsLW3gPiF+0LT1/Wg4N74r73B9CyVPG2dlE=' with primary key.
+[Debug] [15-Dec-18 11:45:58 PM] Decrypted plaintext signature '9682094c3869d2240c59f065591cdd15e6c08ac1af4c6a82b47853710a1c8448'.
+[Debug] [15-Dec-18 11:45:58 PM] Downloading 'oculus-avatar-editor.zip'.
+[Debug] [15-Dec-18 11:45:58 PM] Decrypting ciphertext signature 'K++wEz14zHWkdcQaIh64Vx6DBNIwT23X24fXHDl9xhjx9aENtObPo5xAZTNSldrJBwnS8x11KEceGGXDKepsGYzJR0bz1vmzSMjSouGbnRfrxaxwLM0buNLkrTVbtAYvvbH8uWeZhdHcYJQ6Aqvymv5lF/AnNygB+LNKMXne/odEbdP8Qwsydp+AJ1lq6dQR1y+OVYJvKY+IzQ5xubV++4vKS5FEgDSpX86kOGG+nTW64YsM0AgJRTrvsSZ+BSE/LYNnpSHGP+svQ0kn/O0KrsNPlYC1jD8UVTu2KRwPFaha9npkIfJsA9MB7goIbd5QfQ60EzSCEmmCTvtP49H+SUO3o/wLSNBkBCbEwSGVayhAvgr/Z38P/kGyGhJhsxSgFgZhsUz+iCuP73lx0Iq939kS823a7G3o/UK+YoWlaFWruZyGYlp/3adVudz2uAKs+dW7J9Ba1udWAKwaHZmglaZplzcR5+xDzjJ1jYyIiFOyGbunxmkCcPBKmNbn1oS0CMSYaB+AgPNyWn+dO6L1g388InDk+kmje/BnNf2tvnCLPSqSEp7lt6niTCYy47eR1w/I+SNBVb+mEhQ3s78k0V7K45mOs6cFFNUMVxq/QOW/w7J0wogmjVhRSNP2B7Vn4W/HlIAHMQx/q+0wraIZmgm86cgQQZshXgRxTGvUuG0=' with primary key.
+[Debug] [15-Dec-18 11:45:58 PM] Decrypted plaintext signature 'aaba5feaf5cc53f55bade6297a8199161034fb180aaa0449185bc67895a2156d'.
+[Debug] [15-Dec-18 11:45:58 PM] Downloading 'oculus-dash.zip'.
+[Debug] [15-Dec-18 11:46:16 PM] Decrypting ciphertext signature 'AAzLHW12s2GVo79+DR6dwOlfVRe94n/75lrEGm62K+NFKE1wWRcEKM+zfK497pcbHhWvwUQJWF8UK3Xz3WFJd0zG3LvuvLcmLnGHHnNjebDakbMzvFDda3t3N6wv4qOBgP5eOPCYVCYf3+1zPVBcZ9XF3a2yfGM6tNrvuwBFtKs39NR1GmcznnDc5+P4krYh1Wg7QgEwRi+Ak8ggekp9RJaTx9mO38H9iQwXGVVqmEYNJsGx73Nf9G+kV7iRN6DpjsFItRQRKihhqgrb84D75vaGF8EYr4m1Ckj4GBBQMo65BKO24H0/zVK5gvcWPMYErLpMPvLYSk93EkQuvbT7ViqLIcIR3D63Jgx6z/fTCk3EnyhjAhfkL9GVyr/NhVYGZjH2VZV/Zq8FGLL8uxPPXVdfFE4AXMWnWTOGTETk3IKtRXCHmXtKx/6KKNJF4dHNgS9Dn2/FxAGUWF0qlOPAWUhUiDZecEffntuE6eoD5sIQ0lENh8UEG30iKjvBL+cG0CSsRHu3F+J5d6nCpa6UnQO4ZQIMNgGSElg+J9YAczmrneI+0/jo7U7lSlOmYyL+a41XQr2+t73u+Iqw/N29VE7UZeh1lBZ4fo3QRPzMofnDzJcltDrzNwCNUP4L5zQSO/Q0NbbetrjtfqyW+ZGAEKBEBiNpUhHDFTcJF/gZK+c=' with primary key.
+[Debug] [15-Dec-18 11:46:16 PM] Decrypted plaintext signature '3184918480553fdb67eca588e93b3db19b18adbba2259ddfabe1e8b61f549713'.
+[Debug] [15-Dec-18 11:46:16 PM] Downloading 'oculus-platform-runtime.zip'.
+[Debug] [15-Dec-18 11:46:16 PM] Decrypting ciphertext signature 'dJrbp5aGHVaeYUywaV99f5Jdkallxq8Bj1aO4Vt+6OvR8qrA0RxqYDQRu80waxFq7d/NXgEy2+P9U3p8bNxEG/+TElUqehl11yxbjwscGFe31FjYNUwDrp7YA99c2QRHVWJCeeczxUkltkdy1suX3EzlV6c2RYPIfuHbU9mCFfmim6mvB2zD2r7ZQRyEj2Zc+pgaZKmkWkus5biSoPjJkX4GX0GNTEvq/tOfNQ4DmiCm0PaNmVPgpoqUeCcQibokoXbHsM2xwkMXGvUyOh6VnX0abw1VEiB49Tp/LOhibyvk0UhLXHyaoWbAezfDELmDt0clLv+LekfROcxIAEmNjP2QrN9Bcgf+Avobjad2LYQZYuzGYD7waA81+kc3whP7orvgi6vznfczkTKYeHeF1BqjlzDOF997O5xOyRhqURy0zdxc0VZRUTMoTr90+5/NHqrbzwkP63FHHAnO2RRRADNq1V5ZldOO4FKebfsRIKIQDgvSZ4nobVGWO3DJ6CAE0Yr4/0oe40BoMP+KlTnVFGndz2FmrmtFigy2/akUZAmlEMarqtZ8nBTUh0OuM6H07i4v2994Ot/owwxW1mdZ9qHW3O0BMqlPK1SYaMnqtcxe+G4H3EOISOOYyxkZBpJcqmpm81hMqvyP9ccdkPl63ClGXrL46Oekp3iXn/5bzvQ=' with primary key.
+[Debug] [15-Dec-18 11:46:16 PM] Decrypted plaintext signature '9fbed850763d671aeaef7c808106e024416df19854bf02ab3cd552f0cb5ae45f'.
+[Debug] [15-Dec-18 11:46:16 PM] Downloading 'oculus-worlds.zip'.
+[Debug] [15-Dec-18 11:52:06 PM] Decrypting ciphertext signature 'YnsliwLnjDZ+tNXAGnv0fiY1F9ApGCxcNBeCnb/qEKUbfBONr63bqxJx1LX2SB3kSXp9l3rTenn2DTpIZy6AtjULBivmkfETWMyz8TnEeNJTNl419GiuMSPwE7PT9baJT6JBy4hCtEnvxOwXLQo3e0B+hFjWxQK/gh87OirQz14ZZzdZ3KCsEo5nNTyJ1loCTrxF1okLd0WEKF9G/UoyWZ9Ce5vQpncn+FUPPe3AXjAu5UPVdJ/gazktr9me7eQFJNMqM0NR6jdZS8y60yysihaMpDjgYO5AsowuPuPB5QCH9mLbwpWVlPKnVT8kenR5BuyhI3rgxAYQWJhtGy99RYjjE83urIyIt6p9xUy/hS0sSLwEcA+GSRDd+gf9ZL+X/QVyt7PO0th555ovRT98UTOVxHhPE+qlbw6kLWoIntsf+QCR/Xsrd7BP2Z6l2w8N61BUU6TMKEvL679mRiPezDX+jTdfOkGv7Wx4N7prg0gq1bFwx8zU8HVC6nrSc1KhCP5reKbC6LtBdcVgHC5zikCPnZh1q1RPnhFtguMzEQ8kRKV67CwPe4zvoTpmyfMoI/al9zWW3tvKSNZj9XN5UD81HwBwZn9VTDr9nU8HU/8rCsizFwn0elcuUFFH4F3lQq5dO4XzyA+VeJGyUdlkR7ABFJ1hOQCKG2TiM8h35IQ=' with primary key.
+[Debug] [15-Dec-18 11:52:06 PM] Decrypted plaintext signature 'd523848c9022813b92b68a9c37e4346df77ee2e327e4329cf974209db8e3d6cf'.
+[Debug] [15-Dec-18 11:52:06 PM] Installing 'Visual C++ 2013' redistributable.
+[Debug] [15-Dec-18 11:52:07 PM] Process C:\OculusSetup-DownloadCache\visual-cpp-2013.exe exited with code 0 (success).
+[Debug] [15-Dec-18 11:52:07 PM] Installing 'Visual C++ 2013 x86' redistributable.
+[Debug] [15-Dec-18 11:52:07 PM] Process C:\OculusSetup-DownloadCache\visual-cpp-2013-x86.exe exited with code 0 (success).
+[Debug] [15-Dec-18 11:52:07 PM] Installing 'Visual C++ 2015 Update 3' redistributable.
+[Debug] [15-Dec-18 11:52:08 PM] Process C:\OculusSetup-DownloadCache\visual-cpp-2015-update-3.exe exited with code 0 (success).
+[Debug] [15-Dec-18 11:52:08 PM] Installing 'DirectX (June 2010)' redistributable.
+[Debug] [15-Dec-18 11:52:22 PM] Process C:\OculusSetup-DownloadCache\directx-june-2010-.exe exited with code 0 (success).
+[Debug] [15-Dec-18 11:52:22 PM] Installing 'Vulkan Runtime 1.0.65.1' redistributable.
+[Debug] [15-Dec-18 11:52:23 PM] Process C:\OculusSetup-DownloadCache\vulkan-runtime-1-0-65-1.exe exited with code 0 (success).
+[Debug] [15-Dec-18 11:52:23 PM] Install 'Dawn.Setup.InstallRedistributablesStep' succeeded.
+[Debug] [15-Dec-18 11:52:23 PM] Install 'Dawn.Setup.CreateLibraryServiceStep' succeeded.
+[Debug] [15-Dec-18 11:52:23 PM] Partial uninstall: False
+[Debug] [15-Dec-18 11:52:23 PM] Install 'Dawn.Setup.CreateOculusDirectoriesStep' succeeded.
+[Debug] [15-Dec-18 11:52:23 PM] Extracting asset 'Oculus.ico'.
+[Debug] [15-Dec-18 11:52:23 PM] Install 'Dawn.Setup.ExtractLibrarianStep' succeeded.
+[Debug] [15-Dec-18 11:52:23 PM] Setting installed release channel to 'LIVE'.
+[Debug] [15-Dec-18 11:52:23 PM] Install 'Dawn.Setup.CreateRegistryKeysStep' succeeded.
+[Debug] [15-Dec-18 11:53:44 PM] Install 'Dawn.Setup.SetEnvironmentVariablesStep' succeeded.
+[Debug] [15-Dec-18 11:53:44 PM] Installing oculus-runtime.
+[Error] [15-Dec-18 11:53:45 PM] Librarian exited code 18
+[Debug] [15-Dec-18 11:53:45 PM] Install 'Dawn.Setup.InstallPackagesStep' failed.
+[Warning] [15-Dec-18 11:53:45 PM] Rolling back installation.
+[Debug] [15-Dec-18 11:53:45 PM] Uninstall 'Dawn.Setup.InstallPackagesStep' succeeded.
+[Debug] [15-Dec-18 11:54:57 PM] Uninstall 'Dawn.Setup.SetEnvironmentVariablesStep' succeeded.
+[Debug] [15-Dec-18 11:54:57 PM] Uninstall 'Dawn.Setup.CreateRegistryKeysStep' succeeded.
+[Debug] [15-Dec-18 11:54:57 PM] Uninstall 'Dawn.Setup.ExtractLibrarianStep' succeeded.
+[Debug] [15-Dec-18 11:54:57 PM] Partial uninstall: True
+[Debug] [15-Dec-18 11:54:57 PM] Total files inside Oculus directory: 11 files
+[Debug] [15-Dec-18 11:54:57 PM] Filtered files inside Oculus directory: 11 files
+[Debug] [15-Dec-18 11:54:57 PM] Processing Restart Manager batch 0/1
+[Debug] [15-Dec-18 11:54:57 PM] Initial RmGetResut: 0, number: 0, reason 0
+[Debug] [15-Dec-18 11:54:57 PM] Closing session
+[Debug] [15-Dec-18 11:54:57 PM] Deleting directory '\\?\C:\Program Files\Oculus\Support'.
+[Debug] [15-Dec-18 11:54:57 PM] Deleting directory '\\?\C:\Program Files\Oculus\Support\oculus-librarian'.
+[Debug] [15-Dec-18 11:54:57 PM] Uninstall 'Dawn.Setup.CreateOculusDirectoriesStep' succeeded.
+[Debug] [15-Dec-18 11:54:57 PM] Uninstall 'Dawn.Setup.CreateLibraryServiceStep' succeeded.
+[Debug] [15-Dec-18 11:54:57 PM] Uninstall 'Dawn.Setup.InstallRedistributablesStep' succeeded.
+[Debug] [15-Dec-18 11:56:17 PM] Removing working directory.
+[Warning] [15-Dec-18 11:56:17 PM] Exception deleting 'C:\Users\samdi\AppData\Local\Temp\OculusSetup-36d3a333-55d2-45db-8d47-f17859be2d1e':
+System.UnauthorizedAccessException: Access to the path 'DaybreakNative.dll' is denied.
+   at System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound, WIN32_FIND_DATA& data)
+   at System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   at Dawn.Mixins.ReallyDeleteDirectory(String path)
+[Debug] [15-Dec-18 11:56:17 PM] Scheduling delete of 'C:\Users\samdi\AppData\Local\Temp\OculusSetup-36d3a333-55d2-45db-8d47-f17859be2d1e' on next reboot.
+[Debug] [15-Dec-18 11:56:17 PM] Exiting with code 1.

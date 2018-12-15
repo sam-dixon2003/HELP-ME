@@ -1,0 +1,18 @@
+
+
+[Debug] [15-Dec-18 11:25:18 PM] Starting up OVRLibrarian v1.16.0.0.
+[Debug] [15-Dec-18 11:25:18 PM] Invoking service 'OVRLibraryService' with arguments [install-package, C:\OculusSetup-DownloadCache\oculus-runtime.zip, C:\OculusSetup-DownloadCache\oculus-runtime.zip.sig].
+[Debug] [15-Dec-18 11:25:19 PM] Service 'OVRLibraryService' exited with code 1066+18.
+[Debug] [15-Dec-18 11:25:19 PM] Exiting with code 18.
+
+
+[Debug] [15-Dec-18 11:35:16 PM] Starting up OVRLibrarian v1.16.0.0.
+[Debug] [15-Dec-18 11:35:16 PM] Invoking service 'OVRLibraryService' with arguments [install-package, C:\OculusSetup-DownloadCache\oculus-runtime.zip, C:\OculusSetup-DownloadCache\oculus-runtime.zip.sig].
+[Debug] [15-Dec-18 11:35:17 PM] Service 'OVRLibraryService' exited with code 1066+18.
+[Debug] [15-Dec-18 11:35:17 PM] Exiting with code 18.
+
+
+[Debug] [15-Dec-18 11:53:44 PM] Starting up OVRLibrarian v1.16.0.0.
+[Debug] [15-Dec-18 11:53:44 PM] Invoking service 'OVRLibraryService' with arguments [install-package, C:\OculusSetup-DownloadCache\oculus-runtime.zip, C:\OculusSetup-DownloadCache\oculus-runtime.zip.sig].
+[Debug] [15-Dec-18 11:53:45 PM] Service 'OVRLibraryService' exited with code 1066+18.
+[Debug] [15-Dec-18 11:53:45 PM] Exiting with code 18.
